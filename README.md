@@ -46,7 +46,7 @@
 
 ## miscellaneous
 
-*   [YangguangZhou/some-stars](https://github.com/YangguangZhou/some-stars) - 我的star列表，每天自动更新
+*   [miku8miku/some-stars](https://github.com/miku8miku/some-stars) - 我的star列表，每天自动更新
 
 *   [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents and  forum of FeedMe
 
