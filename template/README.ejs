@@ -2,7 +2,7 @@
 
 # Some Stars
 
-⭐ <a href="https://jerryz.com.cn/"  target="_blank">Jerry Zhou</a>的star列表，每周自动更新 ⭐
+⭐ <a>miku8miku</a>的star列表，每周自动更新 ⭐
 
 </div><br>
 
