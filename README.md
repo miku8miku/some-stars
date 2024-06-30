@@ -8,29 +8,29 @@
 
 ## Table of Contents
 
-*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Python](#python)
+*   [Java](#java)
+*   [TypeScript](#typescript)
+*   [PHP](#php)
+*   [C#](#c)
+*   [miscellaneous](#miscellaneous)
 *   [Stylus](#stylus)
 *   [HTML](#html)
-*   [TypeScript](#typescript)
 *   [CSS](#css)
-*   [Java](#java)
-*   [PHP](#php)
 *   [Shell](#shell)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [Kotlin](#kotlin)
-*   [C](#c)
+*   [C](#c-1)
 *   [Dockerfile](#dockerfile)
 *   [TeX](#tex)
+*   [C++](#c-2)
 *   [Batchfile](#batchfile)
-*   [C#](#c-1)
 *   [Roff](#roff)
 *   [Dart](#dart)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Lua](#lua)
-*   [C++](#c-2)
 *   [MATLAB](#matlab)
 *   [Markdown](#markdown)
 *   [Classic ASP](#classic-asp)
@@ -45,201 +45,19 @@
 *   [MDX](#mdx)
 *   [Scala](#scala)
 
-## miscellaneous
-
-*   [miku8miku/hexo-theme-Fomalhaut](https://github.com/miku8miku/hexo-theme-Fomalhaut) - 🥝的网站源码
-
-*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-*   [miku8miku/some-stars](https://github.com/miku8miku/some-stars) - 我的star列表，每天自动更新
-
-*   [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents and  forum of FeedMe
-
-*   [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
-
-*   [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
-
-*   [chxm1023/Rewrite](https://github.com/chxm1023/Rewrite) -
-
-*   [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) - :books: 极客时间电子书
-
-*   [zhujun2730/Android-Learning-Resources](https://github.com/zhujun2730/Android-Learning-Resources) - Android学习资源网站索引大全
-
-*   [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
-
-*   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
-
-*   [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) - Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
-
-*   [XuanangD/FederatedRS](https://github.com/XuanangD/FederatedRS) - A collection of research papers on Federated Recommender Systems.
-
-*   [giteecode/allProject](https://github.com/giteecode/allProject) - 宠物领养小程序、在线教育系统、考试小程序、医院挂号小程序、电影购票小程序、电商书城、酒店预订系统、酒店管理系统、房屋租赁系统、超市管理系统、超市账单、超市收银、人事管理系统、个人博客系统、商城、宠物租赁管理系统、宠物交易管理系统、宠物医院系统、花店商城、网上鲜花、景区旅游系统、电影购票、教务管理系统、宿舍管理、电影票会员、招聘系统、大学生社团系统、民宿预订、校园疫情管理、动漫商城、校园二手交易系统、校园交流论坛、动漫论坛、在线考试、仓库管理系统、心理咨询系统、健身房管理系统、图书管理系统、物资管理系统、小米商城系统、汽车租赁系统、小区物业系统、高校就业、点餐、医院门诊挂号、停车场、蛋糕商城、校园跑腿、外卖、养老院、小说阅读、文物收藏、手机商城、房屋中介、房屋维修、图书馆座位预约、医院hrp
-
-*   [Xposed-Modules-Repo/com.sevtinge.hyperceiler](https://github.com/Xposed-Modules-Repo/com.sevtinge.hyperceiler) - HyperCeiler
-
-*   [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) -
-
-*   [rong862/bear](https://github.com/rong862/bear) - 逗音小能手
-
-*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
-
-*   [didjdk/adbhelper](https://github.com/didjdk/adbhelper) -
-
-*   [bleach1991/lede](https://github.com/bleach1991/lede) -
-
-*   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
-
-*   [yonggekkk/sing-box\_hysteria2\_tuic\_argo\_reality](https://github.com/yonggekkk/sing-box_hysteria2_tuic_argo_reality) - sing-box精装桶一键脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：支持多端口跳跃、自签/acme双证书、Argo固定临时双隧道等功能；singbox电脑网页客户端(支持订阅链接与本地配置直接读取)
-
-*   [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引
-
-*   [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams
-
-*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-
-*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
-
-*   [yonggekkk/Replit-Xray](https://github.com/yonggekkk/Replit-Xray) - Replit容器部署xray代理，支持argo固定隧道与临时隧道，自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks5
-
-*   [AI-secure/Certified-Robustness-SoK-Oldver](https://github.com/AI-secure/Certified-Robustness-SoK-Oldver) - This repo keeps track of popular provable training and verification approaches towards robust neural networks, including leaderboards on popular datasets and paper categorization.
-
-*   [miku8miku/awesome-federated-noise-learning](https://github.com/miku8miku/awesome-federated-noise-learning) - Collect some Federated  Noise Learning papers.
-
-*   [marswhu/HFL\_Survey](https://github.com/marswhu/HFL_Survey) - Heterogeneous Federated Learning: State-of-the-art and Research Challenges
-
-*   [shengyp/doing\_the\_PhD](https://github.com/shengyp/doing_the_PhD) -
-
-*   [subeeshvasu/Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) - A curated list of resources for Learning with Noisy Labels
-
-*   [demuxin/pytorch\_tricks](https://github.com/demuxin/pytorch_tricks) - some tircks for PyTorch
-
-*   [MLNLP-World/Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips) - MLNLP社区用来帮助大家避免论文投稿小错误的整理仓库。 Paper Writing Tips
-
-*   [bhanML/label-noise-papers](https://github.com/bhanML/label-noise-papers) - An update-to-date list for papers related with label-noise representation learning is here.
-
-*   [HongshengHu/membership-inference-machine-learning-literature](https://github.com/HongshengHu/membership-inference-machine-learning-literature) -
-
-*   [jgshu/Attacks-and-Defenses-in-Federated-Learning](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning) -
-
-*   [Stomach-ache/awesome-long-tail-learning](https://github.com/Stomach-ache/awesome-long-tail-learning) -
-
-*   [hantmac/Python-Interview-Customs-Collection](https://github.com/hantmac/Python-Interview-Customs-Collection) - Python面试通关宝典，秋招、春招的小伙伴✿✿ヽ(°▽°)ノ✿），有面Python开发方向的，看这一个repo就够啦😘
-
-*   [hbaniecki/adversarial-explainable-ai](https://github.com/hbaniecki/adversarial-explainable-ai) - 💡 Adversarial attacks on explanations and how to defend them
-
-*   [yanyanSann/Long-Tailed-Classification-Leaderboard](https://github.com/yanyanSann/Long-Tailed-Classification-Leaderboard) -
-
-*   [zzw-zwzhang/Awesome-of-Long-Tailed-Recognition](https://github.com/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition) - A curated list of long-tailed recognition resources.
-
-*   [dair-ai/ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) - Explanation to key concepts in ML
-
-*   [Web3-Club/Solidity-by-example\_Chinese](https://github.com/Web3-Club/Solidity-by-example_Chinese) - solidity-by-example 教程中文翻译｜@Web3-Club
-
-*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go、leaf 和 hysteria。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go, leaf and hysteria.
-
-*   [zhangkuang/Merlinclash](https://github.com/zhangkuang/Merlinclash) - Merlinclash教程
-
-*   [conditionWang/FLNK](https://github.com/conditionWang/FLNK) - Federated Learning with New Knowledge -- explore to incorporate various new knowledge into existing FL systems and evolve these systems to reduce costs, extend their lifespan, and facilitate sustainable development.
-
-*   [PeiQi0/PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book) - 面向网络安全从业者的知识文库🍃
-
-*   [stratosphereips/awesome-ml-privacy-attacks](https://github.com/stratosphereips/awesome-ml-privacy-attacks) - An awesome list of papers on privacy attacks against machine learning
-
-*   [undergroundwires/CEH-in-bullet-points](https://github.com/undergroundwires/CEH-in-bullet-points) - 💻 Certified ethical hacker summary in bullet points
-
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-
-*   [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
-
-*   [THUYimingLi/backdoor-learning-resources](https://github.com/THUYimingLi/backdoor-learning-resources) - A list of backdoor learning resources
-
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
-
-*   [csl-cqu/awesome-secure-federated-learning-papers](https://github.com/csl-cqu/awesome-secure-federated-learning-papers) -
-
-*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
-
-*   [YunaiV/Blog](https://github.com/YunaiV/Blog) - 每周一篇，内容精简，不咸不淡，期盼探讨。微信公众号：芋道源码【纯源码分享公众号】
-
-*   [ffffffff0x/Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy) - Information Protection & OSINT resources | 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗
-
-*   [Bypass007/Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes) - 应急响应实战笔记，一个安全工程师的自我修养。
-
-*   [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
-
-*   [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page\_facing\_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
-
-*   [innovation-cat/Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) - Everything about federated learning, including research papers, books, codes, tutorials, videos and beyond
-
-*   [AustinNeverPee/FedRecPapers](https://github.com/AustinNeverPee/FedRecPapers) - A project for collecting and showing the current research progress of FedRec
-
-*   [opendilab/awesome-RLHF](https://github.com/opendilab/awesome-RLHF) - A curated list of reinforcement learning with human feedback resources (continually updated)
-
-*   [ZeroWangZY/federated-learning](https://github.com/ZeroWangZY/federated-learning) - Everything about Federated Learning (papers, tutorials, etc.) -- 联邦学习
-
-*   [QiTianyu-0403/FL\_articles](https://github.com/QiTianyu-0403/FL_articles) - Federated Learning Paper Reading List
-
-*   [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
-
-*   [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
-
-*   [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
-
-*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-
-*   [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
-
-*   [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
-
-*   [yarncraft/awesome-edge](https://github.com/yarncraft/awesome-edge) - A qualitative compilation of production-ready frameworks, services and repositories with a focus on Edge Computing & IoT
-
-*   [crespum/edge-ai](https://github.com/crespum/edge-ai) - A curated list of resources for embedded AI
-
-*   [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
-
-*   [daniel-hutao/k8s-source-code-analysis](https://github.com/daniel-hutao/k8s-source-code-analysis) - 《k8s-1.13版本源码分析》
-
-*   [Java-Edge/Java-Interview-Tutorial](https://github.com/Java-Edge/Java-Interview-Tutorial) - 建议star，不要fork，因为我喜欢force push！涵盖互联网大厂数据库、缓存、DDD、设计模式、微服务架构、主流中间件框架原理及真实业务最佳实践。欢迎关注公众号：JavaEdge，一起交流学习！
-
-*   [qijianpeng/awesome-edge-computing](https://github.com/qijianpeng/awesome-edge-computing) - A curated list of awesome edge computing, including Frameworks, Simulators, Tools, etc.
-
-*   [fangvv/awesome-edge-intelligence-collections](https://github.com/fangvv/awesome-edge-intelligence-collections) - About DNN compression and acceleration on Edge Devices.
-
-*   [Little-Podi/Collaborative\_Perception](https://github.com/Little-Podi/Collaborative_Perception) - This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.
-
-*   [jaypume/article](https://github.com/jaypume/article) -
-
-*   [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
-
-*   [nwuzmedoutlook/newdac-comments](https://github.com/nwuzmedoutlook/newdac-comments) - newdac-comments
-
-*   [halo-sigs/awesome-halo](https://github.com/halo-sigs/awesome-halo) - 与 Halo 相关的周边生态资源列表
-
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
-*   [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
-
-*   [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
-
-*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
-
-*   [bighuang624/AI-research-tools](https://github.com/bighuang624/AI-research-tools) - :hammer:AI 方向好用的科研工具
-
-*   [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟
-
-*   [TommyZihao/zihao\_course](https://github.com/TommyZihao/zihao_course) - 同济子豪兄的公开课
-
-*   [Minki-Kim95/Install-pytorch-on-RaspberryPi](https://github.com/Minki-Kim95/Install-pytorch-on-RaspberryPi) - This is manual for how to install Pytorch on RaspberryPi
-
-*   [schrodingercatss/tuning\_playbook\_zh\_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn) - 一本系统地教你将深度学习模型的性能最大化的战术手册。
-
-*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
-
-*   [ThunderSoft001/kubeedgeOnAndroid](https://github.com/ThunderSoft001/kubeedgeOnAndroid) - kubeedgeOnAndroid
-
 ## JavaScript
+
+*   [yang7758258/ohhh154](https://github.com/yang7758258/ohhh154) - QL\_Script Study🌟
+
+*   [liu269569205/jstest](https://github.com/liu269569205/jstest) -
+
+*   [miku8miku/X](https://github.com/miku8miku/X) - Some scripts about Quantumult X, Surge, Loon, Shadowrocket and NodeJS.
+
+*   [Sliverkiss/QuantumultX](https://github.com/Sliverkiss/QuantumultX) - Collection of Scripts written for QuantumultX iOS App
+
+*   [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
+
+*   [loclink/waline-service](https://github.com/loclink/waline-service) - 一键独立部署waline服务端
 
 *   [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex) - Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天），OpenAI/ChatGPT代理，Github加速，在线代理。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker.
 
@@ -280,8 +98,6 @@
 *   [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
 
 *   [feverrun/my\_scripts](https://github.com/feverrun/my_scripts) - 学习使用
-
-*   [leafTheFish/DeathNote](https://github.com/leafTheFish/DeathNote) -
 
 *   [indefined/UserScripts](https://github.com/indefined/UserScripts) - 基于Chrome下的Tampermonkey写的一些个人用户脚本
 
@@ -346,6 +162,8 @@
 *   [RimoChan/match-you](https://github.com/RimoChan/match-you) - 【您配吗】配你吗
 
 ## Python
+
+*   [linbailo/zyqinglong](https://github.com/linbailo/zyqinglong) - 青龙面板脚本自用库薅羊毛（mt论坛、美团、滴滴出行领券/滴滴加油领券/滴滴代驾领券/滴滴签到领券打卡、滴滴果园、饿了么、得物、顺丰、霸王茶姬、益禾堂）
 
 *   [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 
@@ -743,8 +561,6 @@
 
 *   [Wakings/TABASCO](https://github.com/Wakings/TABASCO) - Label-Noise Learning with Intrinsically Long-Tailed Data（ICCV2023）
 
-*   [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
-
 *   [xmed-lab/RSCFed](https://github.com/xmed-lab/RSCFed) - CVPR 2022: RSCFed: Random Sampling Consensus Federated Semi-supervised Learning
 
 *   [ZexiLee/ICML-2023-FedLAW](https://github.com/ZexiLee/ICML-2023-FedLAW) - The is the official implementation of ICML 2023 paper "Revisiting Weighted Aggregation in Federated Learning with Neural Networks".
@@ -915,7 +731,7 @@
 
 *   [FederatedAI/DOC-CHN](https://github.com/FederatedAI/DOC-CHN) - FedAI 社区中文文档
 
-*   [jackhawks/rectg](https://github.com/jackhawks/rectg) - 经过精心筛选，从 5000+ 个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在 issues 中留言或提交 pull requests。感谢您的关注！
+*   [jackhawks/rectg](https://github.com/jackhawks/rectg) - After careful selection, we've picked the best from over 5000 Telegram groups, channels, and bots.
 
 *   [nashory/pggan-pytorch](https://github.com/nashory/pggan-pytorch) - :fire::fire: PyTorch implementation of "Progressive growing of GANs (PGGAN)" :fire::fire:
 
@@ -1177,6 +993,8 @@
 
 *   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
 
+*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
+
 *   [lcarnevale/license-plate-detection-microservice](https://github.com/lcarnevale/license-plate-detection-microservice) - Docker container microservice for license plate detection in Yolov5
 
 *   [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
@@ -1197,7 +1015,7 @@
 
 *   [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 
-*   [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
+*   [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 
 *   [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
 
@@ -1231,45 +1049,49 @@
 
 *   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 
-*   [kubeedge/community](https://github.com/kubeedge/community) - KubeEdge community relevant content
+## Java
 
-*   [ayooshkathuria/YOLO\_v3\_tutorial\_from\_scratch](https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch) - Accompanying code for Paperspace tutorial series "How to Implement YOLO v3 Object Detector from Scratch"
+*   [oasisfeng/island](https://github.com/oasisfeng/island) - Island for Android
 
-*   [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
+*   [constanline/XQuickEnergy](https://github.com/constanline/XQuickEnergy) -
 
-## Stylus
+*   [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 
-*   [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。
+*   [jance-hui/update-jd-ck](https://github.com/jance-hui/update-jd-ck) - alook浏览器 + IOS快捷指令快速更新ck
 
-## HTML
+*   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 
-*   [miku8miku/blog](https://github.com/miku8miku/blog) - miku8miku 的个人博客
+*   [Yanyutin753/refresh-gpt-chat](https://github.com/Yanyutin753/refresh-gpt-chat) - refresh-gpt-chat 中转oaifree或者ninja或者PandoraToV1Api的/v1/\*接口，把refresh\_token当key使用，内含hashmap，自动更新access\_token，完美继承pandoraNext留下的refresh\_token，支持基本所有的模型，小白也能快速使用！
 
-*   [gavinblog/blog-anzhiyu](https://github.com/gavinblog/blog-anzhiyu) - hexo 博客模板仓库，快速搭建一个hexo博客，只需几秒就能搭建一个炫酷的静态博客。
+*   [Drun1baby/JavaSecurityLearning](https://github.com/Drun1baby/JavaSecurityLearning) - 记录一下 Java 安全学习历程，也算是半条学习路线了
 
-*   [sechelper/kunge-cybersecurity-learning](https://github.com/sechelper/kunge-cybersecurity-learning) - 全网首创，坤哥网安学习法，最屌没有之一
+*   [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - MIUI & HyperOS enhancement module - Make MIUI & HyperOS Great Again!
 
-*   [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 
-*   [blmoistawinde/ml\_equations\_latex](https://github.com/blmoistawinde/ml_equations_latex) - Classical ML equations in Latex, helps paper and blog writing
+*   [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao) - 知乎去广告Xposed模块
 
-*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
+*   [jd-opensource/9n-mpc](https://github.com/jd-opensource/9n-mpc) -
 
-*   [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
+*   [fedlearnAI/fedlearn](https://github.com/fedlearnAI/fedlearn) - 联邦学习系统，包括常用算法和通用训练推理系统框架 | Fedlearn Main System, Including Algorithms and Frameworks for Training / Inference.
 
-*   [Guang000/Awesome-Dataset-Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation) - Awesome Dataset Distillation Papers
+*   [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 
-*   [Lerist/FakeLocation](https://github.com/Lerist/FakeLocation) - Fake Location
+*   [mingzhixian/Easycontrol](https://github.com/mingzhixian/Easycontrol) - 易控，帮助你方便的使用手机远程控制手机。
 
-*   [yyn9299/Ternary-separation-system](https://github.com/yyn9299/Ternary-separation-system) - 这是一个基于区块链的三元分离联邦学习系统
+*   [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
 
-*   [fengdu78/deeplearning\_ai\_books](https://github.com/fengdu78/deeplearning_ai_books) - deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
+*   [heibaiying/Full-Stack-Notes](https://github.com/heibaiying/Full-Stack-Notes) - 全栈工程师手册
 
-*   [f2ccloud/theme-ocean](https://github.com/f2ccloud/theme-ocean) - Halo 2.0 知识库主题
+*   [CagataySonmez/EdgeCloudSim](https://github.com/CagataySonmez/EdgeCloudSim) - EdgeCloudSim: An Environment for Performance Evaluation of Edge Computing Systems
 
-*   [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
+*   [F-19-F/Xposed-GodMode](https://github.com/F-19-F/Xposed-GodMode) - A xposed module similar to AdBlock, You can edit the application user interface at will.
 
 ## TypeScript
+
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 
 *   [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 
@@ -1287,7 +1109,7 @@
 
 *   [chenhb23/lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk) - 蓝奏云网盘、客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。项目用 electron 构建，支持 macos 和 windows。
 
-*   [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
+*   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 
 *   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
 
@@ -1333,51 +1155,9 @@
 
 *   [kubeedge/dashboard](https://github.com/kubeedge/dashboard) - Web UI for KubeEdge
 
-## CSS
-
-*   [YangguangZhou/blog](https://github.com/YangguangZhou/blog) - Jerry Zhou 的个人博客
-
-*   [guqing/halo-theme-higan](https://github.com/guqing/halo-theme-higan) - halo主题名彼岸，生死为此岸，涅槃为彼岸；有苦无乐为此岸，无苦无乐为彼岸...它代表着对一切美好的精神追求，也代表着生生不息的轮回亦如本主题分黑白两色，阴极阳至，向死而生。
-
-*   [outlovecn/portainer-cn](https://github.com/outlovecn/portainer-cn) - portainer-ce 2.11 中文汉化版docker镜像，支持X86、ARM、ARM64
-
-## Java
-
-*   [constanline/XQuickEnergy](https://github.com/constanline/XQuickEnergy) -
-
-*   [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
-
-*   [jance-hui/update-jd-ck](https://github.com/jance-hui/update-jd-ck) - alook浏览器 + IOS快捷指令快速更新ck
-
-*   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
-
-*   [Yanyutin753/refresh-gpt-chat](https://github.com/Yanyutin753/refresh-gpt-chat) - refresh-gpt-chat 中转oaifree或者ninja或者PandoraToV1Api的/v1/\*接口，把refresh\_token当key使用，内含hashmap，自动更新access\_token，完美继承pandoraNext留下的refresh\_token，支持基本所有的模型，小白也能快速使用！
-
-*   [Drun1baby/JavaSecurityLearning](https://github.com/Drun1baby/JavaSecurityLearning) - 记录一下 Java 安全学习历程，也算是半条学习路线了
-
-*   [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - MIUI & HyperOS enhancement module - Make MIUI & HyperOS Great Again!
-
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
-
-*   [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao) - 知乎去广告Xposed模块
-
-*   [jd-opensource/9n-mpc](https://github.com/jd-opensource/9n-mpc) -
-
-*   [fedlearnAI/fedlearn](https://github.com/fedlearnAI/fedlearn) - 联邦学习系统，包括常用算法和通用训练推理系统框架 | Fedlearn Main System, Including Algorithms and Frameworks for Training / Inference.
-
-*   [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-
-*   [mingzhixian/Easycontrol](https://github.com/mingzhixian/Easycontrol) - 易控，帮助你方便的使用手机远程控制手机。
-
-*   [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
-
-*   [heibaiying/Full-Stack-Notes](https://github.com/heibaiying/Full-Stack-Notes) - 全栈工程师手册
-
-*   [CagataySonmez/EdgeCloudSim](https://github.com/CagataySonmez/EdgeCloudSim) - EdgeCloudSim: An Environment for Performance Evaluation of Edge Computing Systems
-
-*   [F-19-F/Xposed-GodMode](https://github.com/F-19-F/Xposed-GodMode) - A xposed module similar to AdBlock, You can edit the application user interface at will.
-
 ## PHP
+
+*   [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 
 *   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 
@@ -1388,6 +1168,260 @@
 *   [nemoTyrant/manong](https://github.com/nemoTyrant/manong) - 码农周刊整理
 
 *   [vipszx/antBlockchain](https://github.com/vipszx/antBlockchain) - 蚂蚁区块链，蚂蚁开放联盟链sdk
+
+## C\#
+
+*   [jenius-apps/ambie](https://github.com/jenius-apps/ambie) - An app that uses white noise, nature sounds, and focus features to boost your productivity.
+
+*   [boy1dr/SpleeterGui](https://github.com/boy1dr/SpleeterGui) - Windows desktop front end for Spleeter - AI source separation
+
+*   [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
+
+*   [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
+
+*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
+
+*   [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 - UI Automation Testing Tools For Genshin Impact
+
+*   [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
+
+*   [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
+
+*   [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制
+
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
+
+## miscellaneous
+
+*   [miku8miku/hexo-theme-Fomalhaut](https://github.com/miku8miku/hexo-theme-Fomalhaut) - 🥝的网站源码
+
+*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+
+*   [miku8miku/some-stars](https://github.com/miku8miku/some-stars) - 我的star列表，每天自动更新
+
+*   [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents and  forum of FeedMe
+
+*   [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
+
+*   [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
+
+*   [chxm1023/Rewrite](https://github.com/chxm1023/Rewrite) -
+
+*   [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) - :books: 极客时间电子书
+
+*   [zhujun2730/Android-Learning-Resources](https://github.com/zhujun2730/Android-Learning-Resources) - Android学习资源网站索引大全
+
+*   [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+
+*   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
+
+*   [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) - Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
+
+*   [XuanangD/FederatedRS](https://github.com/XuanangD/FederatedRS) - A collection of research papers on Federated Recommender Systems.
+
+*   [giteecode/allProject](https://github.com/giteecode/allProject) - 宠物领养小程序、在线教育系统、考试小程序、医院挂号小程序、电影购票小程序、电商书城、酒店预订系统、酒店管理系统、房屋租赁系统、超市管理系统、超市账单、超市收银、人事管理系统、个人博客系统、商城、宠物租赁管理系统、宠物交易管理系统、宠物医院系统、花店商城、网上鲜花、景区旅游系统、电影购票、教务管理系统、宿舍管理、电影票会员、招聘系统、大学生社团系统、民宿预订、校园疫情管理、动漫商城、校园二手交易系统、校园交流论坛、动漫论坛、在线考试、仓库管理系统、心理咨询系统、健身房管理系统、图书管理系统、物资管理系统、小米商城系统、汽车租赁系统、小区物业系统、高校就业、点餐、医院门诊挂号、停车场、蛋糕商城、校园跑腿、外卖、养老院、小说阅读、文物收藏、手机商城、房屋中介、房屋维修、图书馆座位预约、医院hrp
+
+*   [Xposed-Modules-Repo/com.sevtinge.hyperceiler](https://github.com/Xposed-Modules-Repo/com.sevtinge.hyperceiler) - HyperCeiler
+
+*   [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) -
+
+*   [rong862/bear](https://github.com/rong862/bear) - 逗音小能手
+
+*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
+
+*   [didjdk/adbhelper](https://github.com/didjdk/adbhelper) -
+
+*   [bleach1991/lede](https://github.com/bleach1991/lede) -
+
+*   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
+
+*   [yonggekkk/sing-box\_hysteria2\_tuic\_argo\_reality](https://github.com/yonggekkk/sing-box_hysteria2_tuic_argo_reality) - sing-box精装桶一键脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：支持多端口跳跃、自签/acme双证书、Argo固定临时双隧道等功能；singbox电脑网页客户端(支持订阅链接与本地配置直接读取)
+
+*   [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引
+
+*   [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams
+
+*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+
+*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
+
+*   [yonggekkk/Replit-Xray](https://github.com/yonggekkk/Replit-Xray) - Replit容器部署xray代理，支持argo固定隧道与临时隧道，自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks5
+
+*   [AI-secure/Certified-Robustness-SoK-Oldver](https://github.com/AI-secure/Certified-Robustness-SoK-Oldver) - This repo keeps track of popular provable training and verification approaches towards robust neural networks, including leaderboards on popular datasets and paper categorization.
+
+*   [miku8miku/awesome-federated-noise-learning](https://github.com/miku8miku/awesome-federated-noise-learning) - Collect some Federated  Noise Learning papers.
+
+*   [marswhu/HFL\_Survey](https://github.com/marswhu/HFL_Survey) - Heterogeneous Federated Learning: State-of-the-art and Research Challenges
+
+*   [shengyp/doing\_the\_PhD](https://github.com/shengyp/doing_the_PhD) -
+
+*   [subeeshvasu/Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) - A curated list of resources for Learning with Noisy Labels
+
+*   [demuxin/pytorch\_tricks](https://github.com/demuxin/pytorch_tricks) - some tircks for PyTorch
+
+*   [MLNLP-World/Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips) - MLNLP社区用来帮助大家避免论文投稿小错误的整理仓库。 Paper Writing Tips
+
+*   [bhanML/label-noise-papers](https://github.com/bhanML/label-noise-papers) - An update-to-date list for papers related with label-noise representation learning is here.
+
+*   [HongshengHu/membership-inference-machine-learning-literature](https://github.com/HongshengHu/membership-inference-machine-learning-literature) -
+
+*   [jgshu/Attacks-and-Defenses-in-Federated-Learning](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning) -
+
+*   [Stomach-ache/awesome-long-tail-learning](https://github.com/Stomach-ache/awesome-long-tail-learning) -
+
+*   [hantmac/Python-Interview-Customs-Collection](https://github.com/hantmac/Python-Interview-Customs-Collection) - Python面试通关宝典，秋招、春招的小伙伴✿✿ヽ(°▽°)ノ✿），有面Python开发方向的，看这一个repo就够啦😘
+
+*   [hbaniecki/adversarial-explainable-ai](https://github.com/hbaniecki/adversarial-explainable-ai) - 💡 Adversarial attacks on explanations and how to defend them
+
+*   [yanyanSann/Long-Tailed-Classification-Leaderboard](https://github.com/yanyanSann/Long-Tailed-Classification-Leaderboard) -
+
+*   [zzw-zwzhang/Awesome-of-Long-Tailed-Recognition](https://github.com/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition) - A curated list of long-tailed recognition resources.
+
+*   [dair-ai/ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) - Explanation to key concepts in ML
+
+*   [Web3-Club/Solidity-by-example\_Chinese](https://github.com/Web3-Club/Solidity-by-example_Chinese) - solidity-by-example 教程中文翻译｜@Web3-Club
+
+*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go、leaf 和 hysteria。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go, leaf and hysteria.
+
+*   [zhangkuang/Merlinclash](https://github.com/zhangkuang/Merlinclash) - Merlinclash教程
+
+*   [conditionWang/FLNK](https://github.com/conditionWang/FLNK) - Federated Learning with New Knowledge -- explore to incorporate various new knowledge into existing FL systems and evolve these systems to reduce costs, extend their lifespan, and facilitate sustainable development.
+
+*   [PeiQi0/PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book) - 面向网络安全从业者的知识文库🍃
+
+*   [stratosphereips/awesome-ml-privacy-attacks](https://github.com/stratosphereips/awesome-ml-privacy-attacks) - An awesome list of papers on privacy attacks against machine learning
+
+*   [undergroundwires/CEH-in-bullet-points](https://github.com/undergroundwires/CEH-in-bullet-points) - 💻 Certified ethical hacker summary in bullet points
+
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+*   [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
+
+*   [THUYimingLi/backdoor-learning-resources](https://github.com/THUYimingLi/backdoor-learning-resources) - A list of backdoor learning resources
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+*   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
+
+*   [csl-cqu/awesome-secure-federated-learning-papers](https://github.com/csl-cqu/awesome-secure-federated-learning-papers) -
+
+*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
+
+*   [YunaiV/Blog](https://github.com/YunaiV/Blog) - 每周一篇，内容精简，不咸不淡，期盼探讨。微信公众号：芋道源码【纯源码分享公众号】
+
+*   [ffffffff0x/Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy) - Information Protection & OSINT resources | 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗
+
+*   [Bypass007/Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes) - 应急响应实战笔记，一个安全工程师的自我修养。
+
+*   [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
+
+*   [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page\_facing\_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
+
+*   [innovation-cat/Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) - Everything about federated learning, including research papers, books, codes, tutorials, videos and beyond
+
+*   [AustinNeverPee/FedRecPapers](https://github.com/AustinNeverPee/FedRecPapers) - A project for collecting and showing the current research progress of FedRec
+
+*   [opendilab/awesome-RLHF](https://github.com/opendilab/awesome-RLHF) - A curated list of reinforcement learning with human feedback resources (continually updated)
+
+*   [ZeroWangZY/federated-learning](https://github.com/ZeroWangZY/federated-learning) - Everything about Federated Learning (papers, tutorials, etc.) -- 联邦学习
+
+*   [QiTianyu-0403/FL\_articles](https://github.com/QiTianyu-0403/FL_articles) - Federated Learning Paper Reading List
+
+*   [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
+
+*   [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+
+*   [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
+
+*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+
+*   [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
+
+*   [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
+
+*   [yarncraft/awesome-edge](https://github.com/yarncraft/awesome-edge) - A qualitative compilation of production-ready frameworks, services and repositories with a focus on Edge Computing & IoT
+
+*   [crespum/edge-ai](https://github.com/crespum/edge-ai) - A curated list of resources for embedded AI
+
+*   [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
+
+*   [daniel-hutao/k8s-source-code-analysis](https://github.com/daniel-hutao/k8s-source-code-analysis) - 《k8s-1.13版本源码分析》
+
+*   [Java-Edge/Java-Interview-Tutorial](https://github.com/Java-Edge/Java-Interview-Tutorial) - 建议star，不要fork，因为我喜欢force push！涵盖互联网大厂数据库、缓存、DDD、设计模式、微服务架构、主流中间件框架原理及真实业务最佳实践。欢迎关注公众号：JavaEdge，一起交流学习！
+
+*   [qijianpeng/awesome-edge-computing](https://github.com/qijianpeng/awesome-edge-computing) - A curated list of awesome edge computing, including Frameworks, Simulators, Tools, etc.
+
+*   [fangvv/awesome-edge-intelligence-collections](https://github.com/fangvv/awesome-edge-intelligence-collections) - About DNN compression and acceleration on Edge Devices.
+
+*   [Little-Podi/Collaborative\_Perception](https://github.com/Little-Podi/Collaborative_Perception) - This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.
+
+*   [jaypume/article](https://github.com/jaypume/article) -
+
+*   [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
+
+*   [nwuzmedoutlook/newdac-comments](https://github.com/nwuzmedoutlook/newdac-comments) - newdac-comments
+
+*   [halo-sigs/awesome-halo](https://github.com/halo-sigs/awesome-halo) - 与 Halo 相关的周边生态资源列表
+
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+*   [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
+
+*   [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
+
+*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
+
+*   [bighuang624/AI-research-tools](https://github.com/bighuang624/AI-research-tools) - :hammer:AI 方向好用的科研工具
+
+*   [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟
+
+*   [TommyZihao/zihao\_course](https://github.com/TommyZihao/zihao_course) - 同济子豪兄的公开课
+
+*   [Minki-Kim95/Install-pytorch-on-RaspberryPi](https://github.com/Minki-Kim95/Install-pytorch-on-RaspberryPi) - This is manual for how to install Pytorch on RaspberryPi
+
+*   [schrodingercatss/tuning\_playbook\_zh\_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn) - 一本系统地教你将深度学习模型的性能最大化的战术手册。
+
+*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
+
+## Stylus
+
+*   [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。
+
+## HTML
+
+*   [miku8miku/blog](https://github.com/miku8miku/blog) - miku8miku 的个人博客
+
+*   [gavinblog/blog-anzhiyu](https://github.com/gavinblog/blog-anzhiyu) - hexo 博客模板仓库，快速搭建一个hexo博客，只需几秒就能搭建一个炫酷的静态博客。
+
+*   [sechelper/kunge-cybersecurity-learning](https://github.com/sechelper/kunge-cybersecurity-learning) - 全网首创，坤哥网安学习法，最屌没有之一
+
+*   [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
+
+*   [blmoistawinde/ml\_equations\_latex](https://github.com/blmoistawinde/ml_equations_latex) - Classical ML equations in Latex, helps paper and blog writing
+
+*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
+
+*   [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
+
+*   [Guang000/Awesome-Dataset-Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation) - A curated list of awesome papers on dataset distillation and related applications.
+
+*   [Lerist/FakeLocation](https://github.com/Lerist/FakeLocation) - Fake Location
+
+*   [yyn9299/Ternary-separation-system](https://github.com/yyn9299/Ternary-separation-system) - 这是一个基于区块链的三元分离联邦学习系统
+
+*   [fengdu78/deeplearning\_ai\_books](https://github.com/fengdu78/deeplearning_ai_books) - deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
+
+*   [f2ccloud/theme-ocean](https://github.com/f2ccloud/theme-ocean) - Halo 2.0 知识库主题
+
+*   [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
+
+## CSS
+
+*   [YangguangZhou/blog](https://github.com/YangguangZhou/blog) - Jerry Zhou 的个人博客
+
+*   [guqing/halo-theme-higan](https://github.com/guqing/halo-theme-higan) - halo主题名彼岸，生死为此岸，涅槃为彼岸；有苦无乐为此岸，无苦无乐为彼岸...它代表着对一切美好的精神追求，也代表着生生不息的轮回亦如本主题分黑白两色，阴极阳至，向死而生。
+
+*   [outlovecn/portainer-cn](https://github.com/outlovecn/portainer-cn) - portainer-ce 2.11 中文汉化版docker镜像，支持X86、ARM、ARM64
 
 ## Shell
 
@@ -1535,9 +1569,9 @@
 
 *   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
-*   [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi) - KubePi 是一个现代化的 K8s 面板，1Panel 官方出品。
+*   [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi) - 🚀 现代化、开源的 K8s 面板，1Panel 官方出品。
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。
 
 *   [baetyl/baetyl](https://github.com/baetyl/baetyl) - Extend cloud computing, data and service seamlessly to edge devices.
 
@@ -1558,14 +1592,6 @@
 *   [geektutu/high-performance-go](https://github.com/geektutu/high-performance-go) - high performance coding with golang（Go 语言高性能编程，Go 语言陷阱，Gotchas，Traps）
 
 *   [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-
-*   [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
-
-*   [kubeedge/sedna](https://github.com/kubeedge/sedna) - AI tookit over KubeEdge
-
-*   [kurator-dev/kurator](https://github.com/kurator-dev/kurator) - Unified resource orchestration, unified scheduling, unified traffic management and unified telemetry for distributed cloud
-
-*   [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 
 ## Vue
 
@@ -1603,8 +1629,6 @@
 
 *   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
 
-*   [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-
 *   [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 
 *   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -1624,8 +1648,6 @@
 *   [beiszhihao/Micro-ML](https://github.com/beiszhihao/Micro-ML) - Edge computing artificial intelligence project
 
 *   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-
-*   [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 
 ## Dockerfile
 
@@ -1649,31 +1671,55 @@
 
 *   [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh) - 《Machine Learning Systems: Design and Implementation》- Chinese Version
 
+## C++
+
+*   [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+
+*   [sakura6264/WhisperDesktop](https://github.com/sakura6264/WhisperDesktop) - Edited from Const-me/Whisper.
+
+*   [FISCO-BCOS/FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) - FISCO BCOS（发音为/ˈfɪskl bi:ˈkɒz/）是一个稳定、高效、安全的许可区块链平台，已被广泛应用于现实的行业应用。截至目前，已拥有5000多家企事业单位，400多个产业数字化标杆应用，涵盖文化版权、司法服务、政府服务、物联网、金融、智慧社区、房地产建设、社区治理、乡村振兴等领域。FISCO BCOS (pronounced /ˈfɪskl bi:ˈkɒz/) is a stable, efficient, and secure permissioned blockchain platform that has been widely used in real-world industry applications.
+
+*   [yuzu-mirror/yuzu](https://github.com/yuzu-mirror/yuzu) - Nintendo Switch emulator (unofficial mirror fork)
+
+*   [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
+
+*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+
+*   [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
+
+*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
+
+*   [data61/MP-SPDZ](https://github.com/data61/MP-SPDZ) - Versatile framework for multi-party computation
+
+*   [Koukyosyumei/AIJack](https://github.com/Koukyosyumei/AIJack) - Security and Privacy Risk Simulator for Machine Learning (arXiv:2312.17667)
+
+*   [pineappleEA/pineapple-src](https://github.com/pineappleEA/pineapple-src) - A former citrus fruit-named emulator's Early Access source code
+
+*   [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
+
+*   [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
+
+*   [NVIDIA/tensorflow](https://github.com/NVIDIA/tensorflow) - An Open Source Machine Learning Framework for Everyone
+
+*   [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
+
+*   [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT) - NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.
+
+*   [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
+
+*   [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.
+
+*   [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
+
+*   [Adlik/Adlik](https://github.com/Adlik/Adlik) - Adlik: Toolkit for Accelerating Deep Learning Inference
+
+*   [4paradigm/OpenMLDB](https://github.com/4paradigm/OpenMLDB) - OpenMLDB is an open-source machine learning database that provides a feature platform computing consistent features for training and inference.
+
 ## Batchfile
 
 *   [shuhongfan/NavicatCracker](https://github.com/shuhongfan/NavicatCracker) - navicat 激活 Navicat所有版本破解 A keygen for Navicat 16 Navicat16破解 Navicat Keygen Navicat 16 Keygen注册机(NavicatCracker)  Navicat 16 破解  Navicat Premium 16 破解 Navicat破解 绿色版 MySQL
 
 *   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
-
-## C\#
-
-*   [boy1dr/SpleeterGui](https://github.com/boy1dr/SpleeterGui) - Windows desktop front end for Spleeter - AI source separation
-
-*   [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
-
-*   [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
-
-*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
-
-*   [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 - UI Automation Testing Tools For Genshin Impact
-
-*   [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
-
-*   [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
-
-*   [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制
-
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
 
 ## Roff
 
@@ -1724,6 +1770,8 @@
 *   [LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya) - Chat凉宫春日, An open sourced Role-Playing chatbot Cheng Li, Ziang Leng, and others.
 
 *   [vrt1shjwlkr/NDSS21-Model-Poisoning](https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning) - Code for NDSS 2021 Paper "Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning"
+
+*   [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
 
 *   [Jwicaksana/FCA](https://github.com/Jwicaksana/FCA) -
 
@@ -1781,8 +1829,6 @@
 
 *   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 
-*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
-
 *   [wilburlua910/Lightweight-CNN-Mask-Detector](https://github.com/wilburlua910/Lightweight-CNN-Mask-Detector) - Real-Time Covid-19 Face mask detection: Edge Intelligence with Convolutional Neural Network (CNN) and Single Shot Detectors
 
 *   [LINC-BIT/IoT-and-Edge-Intelligence](https://github.com/LINC-BIT/IoT-and-Edge-Intelligence) - PyTorch Deep Learning training tutorial on Edge Computing devices.
@@ -1799,8 +1845,6 @@
 
 *   [chenzomi12/AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 
-*   [exacity/simplified-deeplearning](https://github.com/exacity/simplified-deeplearning) - Simplified implementations of deep learning related works
-
 ## Lua
 
 *   [ramprs/grad-cam](https://github.com/ramprs/grad-cam) - \[ICCV 2017] Torch code for Grad-CAM
@@ -1808,50 +1852,6 @@
 *   [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 
 *   [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - Building a CDN from Scratch to Learn about CDN, Nginx, Lua, Prometheus, Grafana, Load balancing, and Containers.
-
-## C++
-
-*   [sakura6264/WhisperDesktop](https://github.com/sakura6264/WhisperDesktop) - Edited from Const-me/Whisper.
-
-*   [FISCO-BCOS/FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) - FISCO BCOS（发音为/ˈfɪskl bi:ˈkɒz/）是一个稳定、高效、安全的许可区块链平台，已被广泛应用于现实的行业应用。截至目前，已拥有5000多家企事业单位，400多个产业数字化标杆应用，涵盖文化版权、司法服务、政府服务、物联网、金融、智慧社区、房地产建设、社区治理、乡村振兴等领域。FISCO BCOS (pronounced /ˈfɪskl bi:ˈkɒz/) is a stable, efficient, and secure permissioned blockchain platform that has been widely used in real-world industry applications.
-
-*   [yuzu-mirror/yuzu](https://github.com/yuzu-mirror/yuzu) - Nintendo Switch emulator (unofficial mirror fork)
-
-*   [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
-
-*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
-
-*   [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
-
-*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-
-*   [data61/MP-SPDZ](https://github.com/data61/MP-SPDZ) - Versatile framework for multi-party computation
-
-*   [Koukyosyumei/AIJack](https://github.com/Koukyosyumei/AIJack) - Security and Privacy Risk Simulator for Machine Learning (arXiv:2312.17667)
-
-*   [pineappleEA/pineapple-src](https://github.com/pineappleEA/pineapple-src) - A former citrus fruit-named emulator's Early Access source code
-
-*   [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
-
-*   [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
-
-*   [NVIDIA/tensorflow](https://github.com/NVIDIA/tensorflow) - An Open Source Machine Learning Framework for Everyone
-
-*   [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
-
-*   [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT) - NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.
-
-*   [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
-
-*   [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.
-
-*   [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
-
-*   [Adlik/Adlik](https://github.com/Adlik/Adlik) - Adlik: Toolkit for Accelerating Deep Learning Inference
-
-*   [4paradigm/OpenMLDB](https://github.com/4paradigm/OpenMLDB) - OpenMLDB is an open-source machine learning database that provides a feature platform computing consistent features for training and inference.
-
-*   [MincYu/pheromone](https://github.com/MincYu/pheromone) -
 
 ## MATLAB
 
