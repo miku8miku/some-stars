@@ -13,8 +13,8 @@
 *   [Go](#go)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
-*   [C](#c)
 *   [Python](#python)
+*   [C](#c)
 *   [TeX](#tex)
 *   [HTML](#html)
 *   [PHP](#php)
@@ -75,7 +75,7 @@
 
 *   [buxuku/video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - 批量为视频或者音频生成字幕，并可批量将字幕翻译成其它语言。这是一个客户端工具, 跨平台支持 mac 和 windows 系统, 支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务
 
-*   [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像OCR、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
+*   [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像OCR、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
 
 *   [IndieKKY/bilibili-subtitle](https://github.com/IndieKKY/bilibili-subtitle) - 哔哔君 - 哔哩哔哩字幕列表浏览器扩展，功能包括点击跳转，下载字幕，总结字幕，翻译字幕等。
 
@@ -89,7 +89,7 @@
 
 *   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
 
 *   [LokerL/tts-vue](https://github.com/LokerL/tts-vue) - 🎤 微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建。
 
@@ -297,8 +297,6 @@
 
 *   [fatwang2/search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
 
-*   [Xx1aoy1/scripts](https://github.com/Xx1aoy1/scripts) -
-
 *   [foss-android/free-for-dev-cn](https://github.com/foss-android/free-for-dev-cn) - free-for-dev中文docker版本，该仓库镜像全自动实现自动同步原仓库并翻译更新
 
 *   [huanglaoxie0503/JS\_Crack](https://github.com/huanglaoxie0503/JS_Crack) - JS逆向破解
@@ -307,7 +305,7 @@
 
 *   [cilame/v\_jstools](https://github.com/cilame/v_jstools) - 模仿着写一个 chrome 插件，用来快速调试前端 js 代码。
 
-*   [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 551674817 密码888 元梦之星
+*   [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 1021185005密码888 元梦之星
 
 *   [sudojia/AutoTaskScript](https://github.com/sudojia/AutoTaskScript) - 自动化任务脚本助手，支持青龙面板及 Docker 部署
 
@@ -667,33 +665,9 @@
 
 *   [schrodingercatss/tuning\_playbook\_zh\_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn) - 一本系统地教你将深度学习模型的性能最大化的战术手册。
 
-## C
-
-*   [jchen-xw/STM32-FreeRTOS\_Game\_Console\_HAL](https://github.com/jchen-xw/STM32-FreeRTOS_Game_Console_HAL) - STM32F103开发板实现了游戏、无源蜂鸣器播放、OLED显示盒按键切换任务功能；使用FreeRTOS实时操作系统完成多任务调度。
-
-*   [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) - :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.
-
-*   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
-
-*   [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
-
-*   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-
-*   [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
-
-*   [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
-
-*   [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
-
-*   [emqx/neuron](https://github.com/emqx/neuron) - Open source industrial IoT connectivity server
-
-*   [beiszhihao/Micro-ML](https://github.com/beiszhihao/Micro-ML) - Edge computing artificial intelligence project
-
 ## Python
+
+*   [Xx1aoy1/scripts](https://github.com/Xx1aoy1/scripts) -
 
 *   [marlkiller/t66y\_auto\_register](https://github.com/marlkiller/t66y_auto_register) - 草榴社区邀请码扫码自动注册脚本
 
@@ -979,7 +953,7 @@
 
 *   [Frrrrrrrrank/auto\_job\_\_find\_\_chatgpt\_\_rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa) - This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China.
 
-*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新
+*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅IPTV源+IPA巨魔应用=自动更新
 
 *   [cuis15/FCFL](https://github.com/cuis15/FCFL) -
 
@@ -1107,7 +1081,7 @@
 
 *   [Guncuke/flame-Taming-backdoor](https://github.com/Guncuke/flame-Taming-backdoor) -
 
-*   [XPixelGroup/DiffBIR](https://github.com/XPixelGroup/DiffBIR) - Official codes of DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior
+*   [XPixelGroup/DiffBIR](https://github.com/XPixelGroup/DiffBIR) - \[ECCV 2024] codes of DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior
 
 *   [ali-vilab/AnyDoor](https://github.com/ali-vilab/AnyDoor) - Official implementations for paper: Anydoor: zero-shot object-level image customization
 
@@ -1630,6 +1604,32 @@
 *   [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
 *   [Adlik/model\_optimizer\_tf](https://github.com/Adlik/model_optimizer_tf) - Model optimizer used in Adlik.
+
+## C
+
+*   [jchen-xw/STM32-FreeRTOS\_Game\_Console\_HAL](https://github.com/jchen-xw/STM32-FreeRTOS_Game_Console_HAL) - STM32F103开发板实现了游戏、无源蜂鸣器播放、OLED显示盒按键切换任务功能；使用FreeRTOS实时操作系统完成多任务调度。
+
+*   [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) - :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.
+
+*   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
+
+*   [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
+
+*   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
+
+*   [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+
+*   [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
+
+*   [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+*   [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
+
+*   [emqx/neuron](https://github.com/emqx/neuron) - Open source industrial IoT connectivity server
+
+*   [beiszhihao/Micro-ML](https://github.com/beiszhihao/Micro-ML) - Edge computing artificial intelligence project
 
 ## TeX
 
