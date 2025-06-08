@@ -8,20 +8,19 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
+*   [Go](#go)
+*   [Java](#java)
 *   [Kotlin](#kotlin)
 *   [Python](#python)
 *   [Vue](#vue)
 *   [Roff](#roff)
-*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Dart](#dart)
 *   [C#](#c)
-*   [Go](#go)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Zig](#zig)
-*   [Java](#java)
-*   [Swift](#swift)
 *   [PHP](#php)
 *   [C](#c-1)
 *   [TeX](#tex)
@@ -46,7 +45,352 @@
 *   [Ruby](#ruby)
 *   [Smarty](#smarty)
 *   [MDX](#mdx)
-*   [Scala](#scala)
+
+## JavaScript
+
+*   [xzxxn777/Surge](https://github.com/xzxxn777/Surge) - JavaScript Scripts for Surge
+
+*   [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/services, one-click SOCKS5 proxy setup, Frida JustTrustMe, and BoringSSL unpinning for all apps.
+
+*   [id77/QuantumultX](https://github.com/id77/QuantumultX) - QuantumultX 自用配置
+
+*   [leiyiyan/resource](https://github.com/leiyiyan/resource) -
+
+*   [yangfeng20/boss\_batch\_push](https://github.com/yangfeng20/boss_batch_push) - Boss直聘批量投简历，批量发送自定义招呼语
+
+*   [xishandong/crawlProject](https://github.com/xishandong/crawlProject) - python爬虫项目合集，从基础到js逆向，包含基础篇、自动化篇、进阶篇以及验证码篇。案例涵盖各大网站(xhs douyin weibo ins boss job，jd...)，你将会学到有关爬虫以及反爬虫、自动化和验证码的各方面知识
+
+*   [msojocs/fiddler-everywhere-enhance](https://github.com/msojocs/fiddler-everywhere-enhance) - Fiddler Everywhere is a secure and modern web debugging proxy for macOS, Windows, and Linux.
+
+*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+
+*   [cityisempty/coinglass](https://github.com/cityisempty/coinglass) -
+
+*   [Xposed-Modules-Repo/lozn.hookui](https://github.com/Xposed-Modules-Repo/lozn.hookui) - HOOKUI,No Code, dyamic analaysis
+
+*   [bigsinger/awesomeFrida](https://github.com/bigsinger/awesomeFrida) - frida代码汇总
+
+*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+
+*   [fatwang2/search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
+
+*   [huanglaoxie0503/JS\_Crack](https://github.com/huanglaoxie0503/JS_Crack) - JS逆向破解
+
+*   [cilame/v\_jstools](https://github.com/cilame/v_jstools) - 模仿着写一个 chrome 插件，用来快速调试前端 js 代码。
+
+*   [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 1021185005密码888 元梦之星
+
+*   [sudojia/AutoTaskScript](https://github.com/sudojia/AutoTaskScript) - 自动化任务脚本助手，支持青龙面板及 Docker 部署
+
+*   [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to directly MitM all HTTPS traffic from a target mobile application
+
+*   [Wenmoux/checkbox](https://github.com/Wenmoux/checkbox) - 　　常用网站签到本地/云函数/青龙脚本( 刺猬猫小说|Acfun| 时光相册|书香门第论坛|绅士领域|好游快爆|埋堆堆|多看阅读|闪艺app|香网小说|晋江|橙光|什么值得买|网易蜗牛读书|网易云游戏平台|龙空论坛|NGA论坛|csdn|mt论坛|sf轻小说|猫耳FM|联想智选app|联想智选联想延保|联动云租车|数码之家|玩物志好物商店|togamemod|好书友论坛|鱼C论坛|帆软社区|村花论坛|纪录片之家|富贵论坛|ug爱好者|阅次元论坛|菜鸟图库|魅族社区|经管之家|有分享论坛|bigfun社区|阡陌居|HiFiNi|Hires后花园|曲奇云盘|游戏动力|百度爱企查|轻之文库|Qoo|天使动漫|耽漫|立创|捷配|花火论坛|17k小说|触站|起点读书|美团买菜|奥拉星积分商城|共创
+
+*   [ppwang06/frida\_js](https://github.com/ppwang06/frida_js) - 使用过frida hook的js代码（自用）
+
+*   [IGuanggg/Very\_Hunger](https://github.com/IGuanggg/Very_Hunger) - 隔~
+
+*   [zjk2017/ArcadiaScriptPublic](https://github.com/zjk2017/ArcadiaScriptPublic) - 青龙脚本库& Issues接投稿 天瑞地安|移动云盘|爱奇艺|奇瑞|金山小程序打卡|雪花|节卡|厚工坊|屈臣氏|掌上瓯海积分|上啥班|永辉|丽影云街|杜蕾斯会员中心|一点万象|所有女生|途虎|沪碳行签到|钉钉ai签到领算粒|哪吒汽车|新战马能量星球|pp停车|桃色|江铃智行|smart+|统一不助力|活力伊利库存|沪上阿姨|华润通|商战|上海宝山|叮当快药py310|品赞代理|爷爷不泡茶|青碳行|鸿星尔克|起飞线生活小兔快跑|牙e家|七彩虹|交汇点|喜马拉雅|申工社|福田e家|艾克帮|贴吧|天翼网盘|有赞通用
+
+*   [AlienwareHe/awesome-reverse](https://github.com/AlienwareHe/awesome-reverse) - awesome-逆向基础入门，包括JS、安卓APP/Native
+
+*   [yanyaoli/cmpedu-dl](https://github.com/yanyaoli/cmpedu-dl) - 机械工业出版社教育服务网资源下载，无需登录，无需教师权限，油猴脚本。
+
+*   [likeyun/liKeYun\_ylb](https://github.com/likeyun/liKeYun_ylb) - 引流宝致力于为个人、团队提供基于微信私域流量的推广、引流的效率工具。可减轻人力，有效降低资源损失、流量流失的几率。引流宝完全开源，免费，可商用、可任意二次开发。引流宝可以辅助你更好地开展营销活动推广！降低运营成本，提高工作效率，获取更多资源。
+
+*   [hdbjlizhe/fanli](https://github.com/hdbjlizhe/fanli) -
+
+*   [3288588344/toulu](https://github.com/3288588344/toulu) - TL库    2025最新青龙面板脚本   青龙脚本     微信机器人：kckl6688   QQ频道：98do10s246      tg频道：https://t.me/TLtoulu     微信公众号:哆啦A梦的藏宝箱
+
+*   [makebl/QL-](https://github.com/makebl/QL-) - 青龙一键搭建，检测安装docker，青龙脚本依赖，拉库，全部傻瓜式
+
+*   [deezertidal/shadowrocket-rules](https://github.com/deezertidal/shadowrocket-rules) - 小火箭 shadowrocket 配置文件 模块 脚本 module sgmodule 图文教程 规则 分流 破解 解锁
+
+*   [cc63/Surge](https://github.com/cc63/Surge) - Surge的配置与模块
+
+*   [deezertidal/Surge\_Module](https://github.com/deezertidal/Surge_Module) - Surge模块 脚本 module sgmodule 面板 规则 分流 破解 解锁
+
+*   [shufflewzc/faker4](https://github.com/shufflewzc/faker4) -
+
+*   [smallfawn/decode\_action](https://github.com/smallfawn/decode_action) - 世界上本来不存在加密，加密的人多了，也便成就了解密
+
+*   [yang7758258/ohhh\_QL-Script](https://github.com/yang7758258/ohhh_QL-Script) - QL\_Script Study |🌟| Issues接投稿
+
+*   [liu269569205/jstest](https://github.com/liu269569205/jstest) -
+
+*   [miku8miku/X](https://github.com/miku8miku/X) - Some scripts about Quantumult X, Surge, Loon, Shadowrocket and NodeJS.
+
+*   [Sliverkiss/QuantumultX](https://github.com/Sliverkiss/QuantumultX) - Collection of Scripts written for QuantumultX iOS App
+
+*   [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
+
+*   [loclink/waline-service](https://github.com/loclink/waline-service) - 一键独立部署waline服务端
+
+*   [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex) - Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Claude3），Github加速，支持解锁Libgen，在线代理。现已支持多平台部署。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker, support Duckduckgo / Libgen. Now you can deploy this project on different platforms.
+
+*   [ccknbc-actions/blog-butterfly](https://github.com/ccknbc-actions/blog-butterfly) - CC的Butterfly主题部落格源码
+
+*   [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
+
+*   [fomalhaut1998/hexo-theme-Fomalhaut](https://github.com/fomalhaut1998/hexo-theme-Fomalhaut) - 🥝的网站源码
+
+*   [fluid-dev/hexo-fluid-blog](https://github.com/fluid-dev/hexo-fluid-blog) - Fluid Blog 欢迎投稿
+
+*   [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
+
+*   [mzzsfy/Dockerfile](https://github.com/mzzsfy/Dockerfile) - 一些针对第三方工程的dockerfile,部分文件可以配合另一个项目的白嫖github action
+
+*   [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
+
+*   [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
+
+*   [Peng-YM/QuanX](https://github.com/Peng-YM/QuanX) - Scripts for QX, Loon, Surge, and ShadowRocket!
+
+*   [chavyleung/scripts](https://github.com/chavyleung/scripts) - BoxJs
+
+*   [NobyDa/Script](https://github.com/NobyDa/Script) - This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)
+
+*   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
+
+*   [xiaoxinpro/nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) - 基于nginx-proxy-manager翻译的中文版本
+
+*   [miku8miku/tts-cloudflare--worker](https://github.com/miku8miku/tts-cloudflare--worker) -
+
+*   [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
+
+*   [feverrun/my\_scripts](https://github.com/feverrun/my_scripts) - 学习使用
+
+*   [indefined/UserScripts](https://github.com/indefined/UserScripts) - 基于Chrome下的Tampermonkey写的一些个人用户脚本
+
+*   [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+
+*   [nuysoft/Mock](https://github.com/nuysoft/Mock) - A simulation data generator
+
+*   [hunmer/mCollection](https://github.com/hunmer/mCollection) - 开源模组化可扩展的素材管理软件
+
+*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
+
+*   [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
+
+*   [wpv-chan/cf-copilot-service](https://github.com/wpv-chan/cf-copilot-service) -
+
+*   [noBaldAaa/find-job](https://github.com/noBaldAaa/find-job) - 自动投简历助手，一键运行，完全免费
+
+*   [2hacc/TVBox](https://github.com/2hacc/TVBox) - TVBox 网络接口，更新速度快，接口访问速度快且稳定！
+
+*   [ButzYung/SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline) - XR Animator, AI-based Full Body Motion Capture and Extended Reality (XR) solution, powered by System Animator Online
+
+*   [shidahuilang/QL-](https://github.com/shidahuilang/QL-) - 青龙一键搭建，京东，羊毛,检测安装docker，青龙脚本依赖，拉库，全部傻瓜式
+
+*   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) -
+
+*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+
+*   [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) -  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+
+*   [ykob/sketch-threejs](https://github.com/ykob/sketch-threejs) - Interactive sketches made with three.js.
+
+*   [DominikDoom/a1111-sd-webui-tagcomplete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete) - Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI
+
+*   [wuYin/k8s-in-action](https://github.com/wuYin/k8s-in-action) - 《Kubernetes in Action 中文版》读书笔记
+
+*   [thecookingsenpai/autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) - A graphical user interface for AutoGPT
+
+*   [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
+
+*   [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
+
+*   [theturtle32/WebSocket-Node](https://github.com/theturtle32/WebSocket-Node) - A WebSocket Implementation for Node.JS (Draft -08 through the final RFC 6455)
+
+*   [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+
+*   [Reamd7/notion-zh\_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
+
+*   [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
+
+*   [qinhua/halo-theme-joe2.0](https://github.com/qinhua/halo-theme-joe2.0) - 🌈 一款 Halo 博客主题 Joe2.0
+
+*   [shufflewzc/faker2](https://github.com/shufflewzc/faker2) - 不破楼兰终不还
+
+*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+## Go
+
+*   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
+
+*   [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+
+*   [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+
+*   [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用、cron 定时任务 等等。
+
+*   [deanxv/genspark2api](https://github.com/deanxv/genspark2api) -
+
+*   [wjlin0/riverPass](https://github.com/wjlin0/riverPass) - riverPass 是一个用Go编写的瑞数WAF绕过工具。它利用了WebSocket协议，将请求发送的自身浏览器中，从而绕过了瑞数WAF的检测。
+
+*   [AowerDmax/websocket-redis](https://github.com/AowerDmax/websocket-redis) -
+
+*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+
+*   [nuanxinqing123/QLTools](https://github.com/nuanxinqing123/QLTools) - 青龙面板的环境变量第三方手动/半自动提交（上传）管理中间件
+
+*   [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
+
+*   [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
+
+*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+
+*   [cpython666/CodeNotes](https://github.com/cpython666/CodeNotes) - 算法笔记模板，Python笔记，Vue笔记，Springboot笔记等自己写代码做的笔记
+
+*   [srcrs/rss-reader](https://github.com/srcrs/rss-reader) - 一个极简的RSS在线浏览工具
+
+*   [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
+
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+
+*   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
+
+*   [EndlessCheng/codeforces-go](https://github.com/EndlessCheng/codeforces-go) - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
+
+*   [TremblingV5/DouTok](https://github.com/TremblingV5/DouTok) - DouTok is a backend server for a simple Douyin/TikTok 字节跳动青训营项目
+
+*   [BaiZe1998/go-learning](https://github.com/BaiZe1998/go-learning) - 一个存放Go语言/计算机相关学习资料的仓库
+
+*   [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+
+*   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
+
+*   [disingn/cliptalk](https://github.com/disingn/cliptalk) - 使用谷歌 gemini-pro-vision和gemini-pro或者 GPT4-vision以及 GPT4来解析抖音和tiktok以及本地视频内容，分析成文本内容，另外附带抖音和 tiktok去水印接口
+
+*   [WireGuard/wireguard-windows](https://github.com/WireGuard/wireguard-windows) - Download WireGuard for Windows at https://www.wireguard.com/install . This repo is a mirror only. Official repository is at https://git.zx2c4.com/wireguard-windows
+
+*   [soulteary/amazing-openai-api](https://github.com/soulteary/amazing-openai-api) - Convert different model APIs into the OpenAI API format out of the box.
+
+*   [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
+
+*   [yeasy/blockchain\_guide](https://github.com/yeasy/blockchain_guide) - Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.
+
+*   [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
+
+*   [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway
+
+*   [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+
+*   [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
+
+*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+
+*   [unknwon/go-rock-libraries-showcases](https://github.com/unknwon/go-rock-libraries-showcases) - 《Go名库讲解》是一套针对 Google 出品的 Go 语言的第三方库进行评测讲解的集博客、示例与语音视频为一体的综合教程，适合完成学习完成《Go编程基础》教程的学习者。
+
+*   [kuriv/civil-service-exam](https://github.com/kuriv/civil-service-exam) - 公务员考试知识思维导图，我们岸上见！
+
+*   [Hel10-Web/Databasetools](https://github.com/Hel10-Web/Databasetools) - 一款用Go语言编写的数据库自动化提权工具，支持Mysql、MSSQL、Postgresql、Oracle、Redis数据库提权、命令执行、爆破以及ssh连接
+
+*   [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+
+*   [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Automatic SRE Superpowers within your Kubernetes cluster
+
+*   [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
+
+*   [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+
+*   [golang-design/go-questions](https://github.com/golang-design/go-questions) - 📖 Go 程序员面试笔试宝典 | 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions
+
+*   [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
+
+*   [cloudframeworks-blockchain/user-guide-fabric-smart-contract](https://github.com/cloudframeworks-blockchain/user-guide-fabric-smart-contract) - \[云框架]基于区块链的智能合约 / Blockchain, Fabric Hyperledger, Smart Contract ／ 区块链, Fabric Hyperledger, 智能合约
+
+*   [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+
+*   [caoyingjunz/go-learning](https://github.com/caoyingjunz/go-learning) - A learning and practise map for OpenStack, kubernetes, golang and the others.
+
+*   [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
+
+*   [edgexfoundry/device-modbus-go](https://github.com/edgexfoundry/device-modbus-go) - Owner: Device WG
+
+*   [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (incubating project under CNCF)
+
+*   [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
+
+*   [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+
+*   [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
+
+*   [kubeedge/mappers-go](https://github.com/kubeedge/mappers-go) - KubeEdge Device Mappers written in go
+
+*   [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
+
+*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+
+*   [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
+
+*   [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
+
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+*   [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi) - 🚀 A modern, open-source K8s panel developed by the official 1Panel team.
+
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+
+*   [golang/protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
+
+*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+## Java
+
+*   [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
+
+*   [ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
+
+*   [cncsnet1/jadx-gui-ai](https://github.com/cncsnet1/jadx-gui-ai) - jadx-gui反编译工具二次开发，接入AI赋能。
+
+*   [anjia0532/unidbg-boot-server](https://github.com/anjia0532/unidbg-boot-server) - unidbg-server 提供http api服务
+
+*   [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
+
+*   [Palatis/XAppDebug](https://github.com/Palatis/XAppDebug) - toggle app debuggable
+
+*   [koush/AndroidAsync](https://github.com/koush/AndroidAsync) - Asynchronous socket, http(s) (client+server) and websocket library for android. Based on nio, not threads.
+
+*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
+
+*   [xuchengsheng/spring-reading](https://github.com/xuchengsheng/spring-reading) - 涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。
+
+*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+
+*   [oasisfeng/island](https://github.com/oasisfeng/island) - Island for Android
+
+*   [constanline/XQuickEnergy](https://github.com/constanline/XQuickEnergy) -
+
+*   [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+
+*   [Yanyutin753/refresh-gpt-chat](https://github.com/Yanyutin753/refresh-gpt-chat) - refresh-gpt-chat 中转oaifree或者ninja或者PandoraToV1Api的/v1/\*接口，把refresh\_token当key使用，内含hashmap，自动更新access\_token，完美继承pandoraNext留下的refresh\_token，支持基本所有的模型，小白也能快速使用！
+
+*   [Drun1baby/JavaSecurityLearning](https://github.com/Drun1baby/JavaSecurityLearning) - 记录一下 Java 安全学习历程，也算是半条学习路线了
+
+*   [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - HyperOS enhancement module - Make HyperOS Great Again!
+
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
+
+*   [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao) - 知乎去广告Xposed模块
+
+*   [jd-opensource/9n-mpc](https://github.com/jd-opensource/9n-mpc) -
+
+*   [fedlearnAI/fedlearn](https://github.com/fedlearnAI/fedlearn) - 联邦学习系统，包括常用算法和通用训练推理系统框架 | Fedlearn Main System, Including Algorithms and Frameworks for Training / Inference.
+
+*   [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+
+*   [mingzhixian/Easycontrol](https://github.com/mingzhixian/Easycontrol) - 易控，帮助你方便的使用手机远程控制手机。
+
+*   [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
+
+*   [heibaiying/Full-Stack-Notes](https://github.com/heibaiying/Full-Stack-Notes) - 全栈工程师手册
+
+*   [F-19-F/Xposed-GodMode](https://github.com/F-19-F/Xposed-GodMode) - A xposed module similar to AdBlock, You can edit the application user interface at will.
 
 ## Kotlin
 
@@ -71,10 +415,6 @@
 *   [XiaoRanLiu3119/LxrChatGpt](https://github.com/XiaoRanLiu3119/LxrChatGpt) - 记录openai的api使用方法等
 
 *   [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
-
-*   [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
-
-*   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
 ## Python
 
@@ -106,25 +446,17 @@
 
 *   [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 
-*   [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
-
 *   [mpquant/Ashare](https://github.com/mpquant/Ashare) - 股票行情实时数据接口-A股,完全免费的沪深证券股票数据-中国股市,python最简封装的API接口,包含日线,历史K线,分时线,分钟线,全部实时采集，系统包括新浪腾讯双数据核心采集获取，自动故障切换，STOCK数据格式成DataFrame格式,可用来查询研究量化分析，股票程序自动化交易系统.为量化研究者在数据获取方面极大地减轻工作量，更加专注于策略和模型的研究与实现。
 
 *   [Ogannesson/ashare-llm-analyst](https://github.com/Ogannesson/ashare-llm-analyst) - 基于Python的A股智能分析工具，结合大语言模型提供数据驱动的投资建议和市场洞察
 
-*   [chenpf1025/IDN](https://github.com/chenpf1025/IDN) - AAAI 2021: Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise
-
 *   [Cl0udG0d/Fofa-hack](https://github.com/Cl0udG0d/Fofa-hack) - 非付费会员，fofa数据采集工具
-
-*   [visitworld123/Twin-sight](https://github.com/visitworld123/Twin-sight) - \[ICLR 2024] "Robust Training of Federated Models with Extremely Label Deficiency"
 
 *   [telegramdev1/TelegramMessage](https://github.com/telegramdev1/TelegramMessage) - telegram消息监控，tg自动发送消息，telegram群消息接收
 
 *   [daiyanan1992/qinglongtest](https://github.com/daiyanan1992/qinglongtest) -
 
 *   [Xx1aoy1/scripts](https://github.com/Xx1aoy1/scripts) -
-
-*   [marlkiller/t66y\_auto\_register](https://github.com/marlkiller/t66y_auto_register) - 草榴社区邀请码扫码自动注册脚本
 
 *   [modelscope/FunASR](https://github.com/modelscope/FunASR) - A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
 
@@ -180,8 +512,6 @@
 
 *   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 
-*   [PhD-TaoLiu/FCBA](https://github.com/PhD-TaoLiu/FCBA) - The core code for our paper "Beyond Traditional Threats: A Persistent Backdoor Attack on Federated Learning".
-
 *   [linbailo/zyqinglong](https://github.com/linbailo/zyqinglong) - 青龙面板脚本自用库薅羊毛（✅ 滴滴出行领券✅ 滴滴加油领券✅ 滴滴代驾领券/滴滴签到领券打卡✅ 滴滴果园✅ mt论坛✅ 美团✅ 饿了么✅ 得物✅ 顺丰✅ 霸王茶姬✅ 益禾堂✅ 塔斯汀✅ 海底捞）
 
 *   [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
@@ -220,8 +550,6 @@
 
 *   [tonny0812/xvideos](https://github.com/tonny0812/xvideos) - xvideos视频爬虫
 
-*   [khoadoan106/backdoor\_attacks](https://github.com/khoadoan106/backdoor_attacks) -
-
 *   [goldfishh/chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
 
 *   [git-disl/Lockdown](https://github.com/git-disl/Lockdown) - A backdoor defense for federated learning via isolated subspace training (NeurIPS2023)
@@ -250,24 +578,6 @@
 
 *   [deu30303/FedDefender](https://github.com/deu30303/FedDefender) -
 
-*   [yisol/IDM-VTON](https://github.com/yisol/IDM-VTON) - \[ECCV2024] IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild
-
-*   [haoyangliASTAPLE/3DFed](https://github.com/haoyangliASTAPLE/3DFed) -
-
-*   [zihangxiang/Practical-Differentially-Private-and-Byzantine-resilient-Federated](https://github.com/zihangxiang/Practical-Differentially-Private-and-Byzantine-resilient-Federated) -
-
-*   [SamuelGong/Dordis](https://github.com/SamuelGong/Dordis) - \[ACM EuroSys'24] Dordis: Efficient Federated Learning with Dropout-Resilient Differential Privacy
-
-*   [HaFaZhang/A3FL](https://github.com/HaFaZhang/A3FL) -
-
-*   [TsingZ0/GPFL](https://github.com/TsingZ0/GPFL) - ICCV 2023 accepted paper, GPFL: Simultaneously Learning Global and Personalized Feature Information for Personalized Federated Learning
-
-*   [WenkeHuang/RethinkFL](https://github.com/WenkeHuang/RethinkFL) - CVPR2023 - Rethinking Federated Learning with Domain Shift: A Prototype View
-
-*   [taoqi98/Robust-DPFL](https://github.com/taoqi98/Robust-DPFL) - The codes of Robust-DPFL
-
-*   [jjzgeeks/GradCAM-AE](https://github.com/jjzgeeks/GradCAM-AE) - These codes are about "GradCAM-AE: A New Shield Defense Against Poisoning Attacks on Federated Learning"
-
 *   [MakiNaruto/Automatic\_ticket\_purchase](https://github.com/MakiNaruto/Automatic_ticket_purchase) - 大麦网抢票脚本
 
 *   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
@@ -278,45 +588,17 @@
 
 *   [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 
-*   [TsingZ0/FedTGP](https://github.com/TsingZ0/FedTGP) - AAAI 2024 accepted paper, FedTGP: Trainable Global Prototypes with Adaptive-Margin-Enhanced Contrastive Learning for Data and Model Heterogeneity in Federated Learning
-
-*   [ZJU-DAILY/FeLeDetect](https://github.com/ZJU-DAILY/FeLeDetect) - Source code for FeLeDetect: Federated Learning for Error Detection over Different Data Sources
-
-*   [TsingZ0/FedKTL](https://github.com/TsingZ0/FedKTL) - CVPR 2024 accepted paper, An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side Pre-trained Generator to Clients in Heterogeneous Federated Learning
-
-*   [CharlieMat/FedFairRec](https://github.com/CharlieMat/FedFairRec) - Federated Fairness-aware Recommendation
-
 *   [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转录、语音合成、字幕翻译。
-
-*   [ChenyangLu922/SCL2](https://github.com/ChenyangLu922/SCL2) - Supervised Contrastive Learning with Corrected Labels for Noisy Label Learning
-
-*   [wuzhiyuan2000/FedAgg](https://github.com/wuzhiyuan2000/FedAgg) - \[INFOCOM 2024 Top 1 Popular Article] Agglomerative Federated Learning: Empowering Larger Model Training via End-Edge-Cloud Collaboration
-
-*   [zjfheart/NoiLIn](https://github.com/zjfheart/NoiLIn) - The code for NoiLIn: Improving Adversarial Training and Correcting Stereotype of Noisy Labels (TMLR 22 accept)
-
-*   [orion-orion/FedAO](https://github.com/orion-orion/FedAO) - 🔨 A toolbox for federated learning, aiming to provide implementations of FedAvg, FedProx, Ditto, etc. in multiple versions, such as Pytorch/Tensorflow, single-machine/distributed, synchronized/asynchronous.
-
-*   [beiyuouo/AFL-CS](https://github.com/beiyuouo/AFL-CS) - \[IEEE ICPADS'23] AFL-CS: Asynchronous Federated Learning with Cosine Similarity-based Penalty Term and Aggregation
 
 *   [lmy1997/tuxiaoshi](https://github.com/lmy1997/tuxiaoshi) -
 
-*   [18sym/FedLF](https://github.com/18sym/FedLF) - Official codes for ACML '24 research paper: FedLF: Adaptive Logit Adjustment and Feature Optimization in Federated Long-Tailed Learning.
-
 *   [yuweisunn/attacking-distance-aware-attack](https://github.com/yuweisunn/attacking-distance-aware-attack) -
-
-*   [liuquande/FedIRM](https://github.com/liuquande/FedIRM) - Official implementation for MICCAI 2021 paper "Federated Semi-supervised Medical Image Classification via Inter-client Relation Matching"
-
-*   [Orienfish/Async-HFL](https://github.com/Orienfish/Async-HFL) - \[IoTDI 2023/ML4IoT 2023] Async-HFL: Efficient and Robust Asynchronous Federated Learning in Hierarchical IoT Networks
-
-*   [taoqi98/FedSampling](https://github.com/taoqi98/FedSampling) - Codes of FedSampling
 
 *   [hmgxr128/MIFA\_code](https://github.com/hmgxr128/MIFA_code) -
 
 *   [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 
 *   [lijichang/LNL-NCE](https://github.com/lijichang/LNL-NCE) - A pytorch implementation for "Neighborhood Collective Estimation for Noisy Label Identification and Correction", which is accepted by ECCV2022.
-
-*   [alpemreacar/FedDyn](https://github.com/alpemreacar/FedDyn) -
 
 *   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
@@ -744,53 +1026,11 @@
 
 *   [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
-*   [Adlik/model\_optimizer\_tf](https://github.com/Adlik/model_optimizer_tf) - Model optimizer used in Adlik.
-
-*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
-
-*   [ayooshkathuria/YOLO\_v3\_tutorial\_from\_scratch](https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch) - Accompanying code for Paperspace tutorial series "How to Implement YOLO v3 Object Detector from Scratch"
-
-*   [alpa-projects/alpa](https://github.com/alpa-projects/alpa) - Training and serving large-scale neural networks with auto parallelization.
-
-*   [wxkang157/PytorchPipeline](https://github.com/wxkang157/PytorchPipeline) - Pytorch pipeline template
-
-*   [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
-
-*   [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
-
-*   [penguin-wwy/magic-in-ten-mins-py](https://github.com/penguin-wwy/magic-in-ten-mins-py) - 十分钟魔法练习 Python 版
-
-*   [iscyy/ultralyticsPro](https://github.com/iscyy/ultralyticsPro) - 🔥🔥🔥 专注于YOLO11，YOLOv8、TYOLOv12、YOLOv10、RT-DETR、YOLOv7、YOLOv5改进模型，Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀
-
-*   [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
-
-*   [KichangKim/DeepDanbooru](https://github.com/KichangKim/DeepDanbooru) - AI based multi-label girl image classification system, implemented by using TensorFlow.
-
-*   [GoodCoder666/GoogleTranslate\_IPFinder](https://github.com/GoodCoder666/GoogleTranslate_IPFinder) - 谷歌翻译服务器在中国大陆的IP地址扫描、测速工具。
-
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-
-*   [lss233/kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
-
-*   [tylearymf/chatgpt-qqbot](https://github.com/tylearymf/chatgpt-qqbot) - QQ机器人版的ChatGPT
-
-*   [iswbm/magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
-
-*   [why2lyj/ItChat-UOS](https://github.com/why2lyj/ItChat-UOS) - 复活Itchat,你只需要 pip install itchat-uos
-
-*   [wechaty/python-wechaty](https://github.com/wechaty/python-wechaty) - Python Wechaty is a Conversational RPA SDK for Chatbot Makers written in Python
-
-*   [Womsxd/MihoyoBBSTools](https://github.com/Womsxd/MihoyoBBSTools) - Womsxd/AutoMihoyoBBS，米游社相关脚本
-
-*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
-
 ## Vue
 
 *   [hanxi/tiny-nav](https://github.com/hanxi/tiny-nav) - 非常简单的个人导航网站 / A Simple Personal Navigation Website
 
 *   [2977094657/BiliHistoryFrontend](https://github.com/2977094657/BiliHistoryFrontend) - 获取b站历史记录，批量下载视频，一键下载用户投稿视频，收藏夹所有视频，生成详细的年度总结，自动化任务，下面链接是对应后端
-
-*   [dlzmoe/linuxdo-scripts](https://github.com/dlzmoe/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店!
 
 *   [lanzhihong6/stock-scanner](https://github.com/lanzhihong6/stock-scanner) - 开源量化分析
 
@@ -822,182 +1062,6 @@
 
 *   [SanaAwan5/edgecase\_backdoors](https://github.com/SanaAwan5/edgecase_backdoors) -
 
-## JavaScript
-
-*   [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/services, one-click SOCKS5 proxy setup, Frida JustTrustMe, and BoringSSL unpinning for all apps.
-
-*   [id77/QuantumultX](https://github.com/id77/QuantumultX) - QuantumultX 自用配置
-
-*   [leiyiyan/resource](https://github.com/leiyiyan/resource) -
-
-*   [checkToke/yangtai](https://github.com/checkToke/yangtai) - 青龙面板、上车， 巴奴火锅、一汽大众、海底捞、屈臣氏、霸王茶姬、华住会、东呈会、万达酒店、益禾堂 自动签到
-
-*   [yangfeng20/boss\_batch\_push](https://github.com/yangfeng20/boss_batch_push) - Boss直聘批量投简历，批量发送自定义招呼语
-
-*   [xishandong/crawlProject](https://github.com/xishandong/crawlProject) - python爬虫项目合集，从基础到js逆向，包含基础篇、自动化篇、进阶篇以及验证码篇。案例涵盖各大网站(xhs douyin weibo ins boss job，jd...)，你将会学到有关爬虫以及反爬虫、自动化和验证码的各方面知识
-
-*   [msojocs/fiddler-everywhere-enhance](https://github.com/msojocs/fiddler-everywhere-enhance) - Fiddler Everywhere is a secure and modern web debugging proxy for macOS, Windows, and Linux.
-
-*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-
-*   [cityisempty/coinglass](https://github.com/cityisempty/coinglass) -
-
-*   [Xposed-Modules-Repo/lozn.hookui](https://github.com/Xposed-Modules-Repo/lozn.hookui) - HOOKUI,No Code, dyamic analaysis
-
-*   [bigsinger/awesomeFrida](https://github.com/bigsinger/awesomeFrida) - frida代码汇总
-
-*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-
-*   [fatwang2/search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
-
-*   [huanglaoxie0503/JS\_Crack](https://github.com/huanglaoxie0503/JS_Crack) - JS逆向破解
-
-*   [cilame/v\_jstools](https://github.com/cilame/v_jstools) - 模仿着写一个 chrome 插件，用来快速调试前端 js 代码。
-
-*   [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 1021185005密码888 元梦之星
-
-*   [sudojia/AutoTaskScript](https://github.com/sudojia/AutoTaskScript) - 自动化任务脚本助手，支持青龙面板及 Docker 部署
-
-*   [jerrychen417/elelnew](https://github.com/jerrychen417/elelnew) -
-
-*   [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to directly MitM all HTTPS traffic from a target mobile application
-
-*   [Wenmoux/checkbox](https://github.com/Wenmoux/checkbox) - 　　常用网站签到本地/云函数/青龙脚本( 刺猬猫小说|Acfun| 时光相册|书香门第论坛|绅士领域|好游快爆|埋堆堆|多看阅读|闪艺app|香网小说|晋江|橙光|什么值得买|网易蜗牛读书|网易云游戏平台|龙空论坛|NGA论坛|csdn|mt论坛|sf轻小说|猫耳FM|联想智选app|联想智选联想延保|联动云租车|数码之家|玩物志好物商店|togamemod|好书友论坛|鱼C论坛|帆软社区|村花论坛|纪录片之家|富贵论坛|ug爱好者|阅次元论坛|菜鸟图库|魅族社区|经管之家|有分享论坛|bigfun社区|阡陌居|HiFiNi|Hires后花园|曲奇云盘|游戏动力|百度爱企查|轻之文库|Qoo|天使动漫|耽漫|立创|捷配|花火论坛|17k小说|触站|起点读书|美团买菜|奥拉星积分商城|共创
-
-*   [ppwang06/frida\_js](https://github.com/ppwang06/frida_js) - 使用过frida hook的js代码（自用）
-
-*   [IGuanggg/Very\_Hunger](https://github.com/IGuanggg/Very_Hunger) - 隔~
-
-*   [zjk2017/ArcadiaScriptPublic](https://github.com/zjk2017/ArcadiaScriptPublic) - 青龙脚本库& Issues接投稿 天瑞地安|移动云盘|爱奇艺|奇瑞|金山小程序打卡|雪花|节卡|厚工坊|屈臣氏|掌上瓯海积分|上啥班|永辉|丽影云街|杜蕾斯会员中心|一点万象|所有女生|途虎|沪碳行签到|钉钉ai签到领算粒|哪吒汽车|新战马能量星球|pp停车|桃色|江铃智行|smart+|统一不助力|活力伊利库存|沪上阿姨|华润通|商战|上海宝山|叮当快药py310|品赞代理|爷爷不泡茶|青碳行|鸿星尔克|起飞线生活小兔快跑|牙e家|七彩虹|交汇点|喜马拉雅|申工社|福田e家|艾克帮|贴吧|天翼网盘|有赞通用
-
-*   [AlienwareHe/awesome-reverse](https://github.com/AlienwareHe/awesome-reverse) - awesome-逆向基础入门，包括JS、安卓APP/Native
-
-*   [yanyaoli/cmpedu-dl](https://github.com/yanyaoli/cmpedu-dl) - 机械工业出版社教育服务网资源下载，无需登录，无需教师权限，油猴脚本。
-
-*   [likeyun/liKeYun\_ylb](https://github.com/likeyun/liKeYun_ylb) - 引流宝致力于为个人、团队提供基于微信私域流量的推广、引流的效率工具。可减轻人力，有效降低资源损失、流量流失的几率。引流宝完全开源，免费，可商用、可任意二次开发。引流宝可以辅助你更好地开展营销活动推广！降低运营成本，提高工作效率，获取更多资源。
-
-*   [hdbjlizhe/fanli](https://github.com/hdbjlizhe/fanli) -
-
-*   [3288588344/toulu](https://github.com/3288588344/toulu) - TL库    2025最新青龙面板脚本   青龙脚本     微信机器人：kckl6688   QQ频道：98do10s246      tg频道：https://t.me/TLtoulu     微信公众号:哆啦A梦的藏宝箱
-
-*   [makebl/QL-](https://github.com/makebl/QL-) - 青龙一键搭建，检测安装docker，青龙脚本依赖，拉库，全部傻瓜式
-
-*   [deezertidal/shadowrocket-rules](https://github.com/deezertidal/shadowrocket-rules) - 小火箭 shadowrocket 配置文件 模块 脚本 module sgmodule 图文教程 规则 分流 破解 解锁
-
-*   [cc63/Surge](https://github.com/cc63/Surge) - Surge的配置与模块
-
-*   [deezertidal/Surge\_Module](https://github.com/deezertidal/Surge_Module) - Surge模块 脚本 module sgmodule 面板 规则 分流 破解 解锁
-
-*   [shufflewzc/faker4](https://github.com/shufflewzc/faker4) -
-
-*   [smallfawn/decode\_action](https://github.com/smallfawn/decode_action) - 世界上本来不存在加密，加密的人多了，也便成就了解密
-
-*   [yang7758258/ohhh\_QL-Script](https://github.com/yang7758258/ohhh_QL-Script) - QL\_Script Study |🌟| Issues接投稿
-
-*   [liu269569205/jstest](https://github.com/liu269569205/jstest) -
-
-*   [miku8miku/X](https://github.com/miku8miku/X) - Some scripts about Quantumult X, Surge, Loon, Shadowrocket and NodeJS.
-
-*   [Sliverkiss/QuantumultX](https://github.com/Sliverkiss/QuantumultX) - Collection of Scripts written for QuantumultX iOS App
-
-*   [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
-
-*   [loclink/waline-service](https://github.com/loclink/waline-service) - 一键独立部署waline服务端
-
-*   [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex) - Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Claude3），Github加速，支持解锁Libgen，在线代理。现已支持多平台部署。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker, support Duckduckgo / Libgen. Now you can deploy this project on different platforms.
-
-*   [ccknbc-actions/blog-butterfly](https://github.com/ccknbc-actions/blog-butterfly) - CC的Butterfly主题部落格源码
-
-*   [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
-
-*   [fomalhaut1998/hexo-theme-Fomalhaut](https://github.com/fomalhaut1998/hexo-theme-Fomalhaut) - 🥝的网站源码
-
-*   [fluid-dev/hexo-fluid-blog](https://github.com/fluid-dev/hexo-fluid-blog) - Fluid Blog 欢迎投稿
-
-*   [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
-
-*   [mzzsfy/Dockerfile](https://github.com/mzzsfy/Dockerfile) - 一些针对第三方工程的dockerfile,部分文件可以配合另一个项目的白嫖github action
-
-*   [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
-
-*   [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
-
-*   [Peng-YM/QuanX](https://github.com/Peng-YM/QuanX) - Scripts for QX, Loon, Surge, and ShadowRocket!
-
-*   [chavyleung/scripts](https://github.com/chavyleung/scripts) - BoxJs
-
-*   [NobyDa/Script](https://github.com/NobyDa/Script) - This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)
-
-*   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
-
-*   [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
-
-*   [xiaoxinpro/nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) - 基于nginx-proxy-manager翻译的中文版本
-
-*   [miku8miku/tts-cloudflare--worker](https://github.com/miku8miku/tts-cloudflare--worker) -
-
-*   [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
-
-*   [feverrun/my\_scripts](https://github.com/feverrun/my_scripts) - 学习使用
-
-*   [indefined/UserScripts](https://github.com/indefined/UserScripts) - 基于Chrome下的Tampermonkey写的一些个人用户脚本
-
-*   [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-
-*   [nuysoft/Mock](https://github.com/nuysoft/Mock) - A simulation data generator
-
-*   [hunmer/mCollection](https://github.com/hunmer/mCollection) - 开源模组化可扩展的素材管理软件
-
-*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
-
-*   [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
-
-*   [wpv-chan/cf-copilot-service](https://github.com/wpv-chan/cf-copilot-service) -
-
-*   [noBaldAaa/find-job](https://github.com/noBaldAaa/find-job) - 自动投简历助手，一键运行，完全免费
-
-*   [2hacc/TVBox](https://github.com/2hacc/TVBox) - TVBox 网络接口，更新速度快，接口访问速度快且稳定！
-
-*   [ButzYung/SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline) - XR Animator, AI-based Full Body Motion Capture and Extended Reality (XR) solution, powered by System Animator Online
-
-*   [shidahuilang/QL-](https://github.com/shidahuilang/QL-) - 青龙一键搭建，京东，羊毛,检测安装docker，青龙脚本依赖，拉库，全部傻瓜式
-
-*   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) -
-
-*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-
-*   [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) -  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
-
-*   [ykob/sketch-threejs](https://github.com/ykob/sketch-threejs) - Interactive sketches made with three.js.
-
-*   [DominikDoom/a1111-sd-webui-tagcomplete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete) - Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI
-
-*   [wuYin/k8s-in-action](https://github.com/wuYin/k8s-in-action) - 《Kubernetes in Action 中文版》读书笔记
-
-*   [thecookingsenpai/autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) - A graphical user interface for AutoGPT
-
-*   [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
-
-*   [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
-
-*   [theturtle32/WebSocket-Node](https://github.com/theturtle32/WebSocket-Node) - A WebSocket Implementation for Node.JS (Draft -08 through the final RFC 6455)
-
-*   [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-
-*   [Reamd7/notion-zh\_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
-
-*   [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
-
-*   [qinhua/halo-theme-joe2.0](https://github.com/qinhua/halo-theme-joe2.0) - 🌈 一款 Halo 博客主题 Joe2.0
-
-*   [shufflewzc/faker2](https://github.com/shufflewzc/faker2) - 不破楼兰终不还
-
-*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
-*   [sl1673495/blogs](https://github.com/sl1673495/blogs) - :book: 全网 100w+ 阅读量的进阶前端技术博客仓库，Vue 源码解析，React 深度实践，TypeScript 进阶艺术，工程化，性能优化实践……
-
 ## miscellaneous
 
 *   [sun0225SUN/sun0225SUN](https://github.com/sun0225SUN/sun0225SUN) - sun0225SUN's profile with 252 stars and 262 forks 🎉
@@ -1017,8 +1081,6 @@
 *   [Xposed-Modules-Repo/top.hookvip.pro](https://github.com/Xposed-Modules-Repo/top.hookvip.pro) - NewHookVip
 
 *   [iCloudZA/xhs](https://github.com/iCloudZA/xhs) - 小红书接口，爬虫用
-
-*   [18sym/Federated-Long-Tailed-Learning](https://github.com/18sym/Federated-Long-Tailed-Learning) - Codebase of  Federated Long-Tailed Learning
 
 *   [febobo/web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
 
@@ -1063,8 +1125,6 @@
 *   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
 
 *   [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) - Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
-
-*   [XuanangD/FederatedRS](https://github.com/XuanangD/FederatedRS) - A collection of research papers on Federated Recommender Systems.
 
 *   [giteecode/allProject](https://github.com/giteecode/allProject) - 宠物领养小程序、在线教育系统、考试小程序、医院挂号小程序、电影购票小程序、电商书城、酒店预订系统、酒店管理系统、房屋租赁系统、超市管理系统、超市账单、超市收银、人事管理系统、个人博客系统、商城、宠物租赁管理系统、宠物交易管理系统、宠物医院系统、花店商城、网上鲜花、景区旅游系统、电影购票、教务管理系统、宿舍管理、电影票会员、招聘系统、大学生社团系统、民宿预订、校园疫情管理、动漫商城、校园二手交易系统、校园交流论坛、动漫论坛、在线考试、仓库管理系统、心理咨询系统、健身房管理系统、图书管理系统、物资管理系统、小米商城系统、汽车租赁系统、小区物业系统、高校就业、点餐、医院门诊挂号、停车场、蛋糕商城、校园跑腿、外卖、养老院、小说阅读、文物收藏、手机商城、房屋中介、房屋维修、图书馆座位预约、医院hrp
 
@@ -1178,20 +1238,6 @@
 
 *   [Minki-Kim95/Install-pytorch-on-RaspberryPi](https://github.com/Minki-Kim95/Install-pytorch-on-RaspberryPi) - This is manual for how to install Pytorch on RaspberryPi
 
-*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
-
-*   [ty4z2008/Qix](https://github.com/ty4z2008/Qix) - Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang
-
-*   [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
-
-*   [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。🚀 Free subscription address, 🚀 Free node, 🚀 Updated every 6 hours, shared node, high-quality node availability, completely free. Free clash subscription address, free ss/v2ray/trojan node.
-
-*   [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
-
-*   [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
-
-*   [shengcaishizhan/kkndme\_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
-
 ## TypeScript
 
 *   [HybridTalentComputing/cline-chinese](https://github.com/HybridTalentComputing/cline-chinese) - Cline中文汉化版，Cline是一款在您的 IDE 中运行的自主编程助手，经您许可后可以创建/编辑文件、运行命令、使用浏览器等功能。
@@ -1237,6 +1283,8 @@
 *   [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 
 *   [buxuku/SmartSub](https://github.com/buxuku/SmartSub) - 「妙幕」是一款跨平台客户端工具，可以批量为视频或者音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek 等多家翻译
+
+*   [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 
 *   [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、探索版、K1思考模型、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
 
@@ -1286,16 +1334,6 @@
 
 *   [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 
-*   [MuiseDestiny/zotero-citation](https://github.com/MuiseDestiny/zotero-citation) - Make Zotero's citation in Word easier and clearer.
-
-*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
-
-*   [WiseGPT/slack-bot](https://github.com/WiseGPT/slack-bot) - Slack bot with OpenAI Chat Completion (gpt-3.5-turbo), just like ChatGPT in your Slack
-
-*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
-
-*   [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot
-
 ## Dart
 
 *   [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
@@ -1338,150 +1376,6 @@
 
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
-## Go
-
-*   [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-
-*   [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
-
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
-
-*   [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用、cron 定时任务 等等。
-
-*   [deanxv/genspark2api](https://github.com/deanxv/genspark2api) -
-
-*   [wjlin0/riverPass](https://github.com/wjlin0/riverPass) - riverPass 是一个用Go编写的瑞数WAF绕过工具。它利用了WebSocket协议，将请求发送的自身浏览器中，从而绕过了瑞数WAF的检测。
-
-*   [AowerDmax/websocket-redis](https://github.com/AowerDmax/websocket-redis) -
-
-*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
-
-*   [nuanxinqing123/QLTools](https://github.com/nuanxinqing123/QLTools) - 青龙面板的环境变量第三方手动/半自动提交（上传）管理中间件
-
-*   [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
-
-*   [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
-
-*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-
-*   [cpython666/CodeNotes](https://github.com/cpython666/CodeNotes) - 算法笔记模板，Python笔记，Vue笔记，Springboot笔记等自己写代码做的笔记
-
-*   [srcrs/rss-reader](https://github.com/srcrs/rss-reader) - 一个极简的RSS在线浏览工具
-
-*   [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
-
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
-
-*   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
-
-*   [EndlessCheng/codeforces-go](https://github.com/EndlessCheng/codeforces-go) - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
-
-*   [TremblingV5/DouTok](https://github.com/TremblingV5/DouTok) - DouTok is a backend server for a simple Douyin/TikTok 字节跳动青训营项目
-
-*   [BaiZe1998/go-learning](https://github.com/BaiZe1998/go-learning) - 一个存放Go语言/计算机相关学习资料的仓库
-
-*   [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
-
-*   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
-
-*   [disingn/cliptalk](https://github.com/disingn/cliptalk) - 使用谷歌 gemini-pro-vision和gemini-pro或者 GPT4-vision以及 GPT4来解析抖音和tiktok以及本地视频内容，分析成文本内容，另外附带抖音和 tiktok去水印接口
-
-*   [WireGuard/wireguard-windows](https://github.com/WireGuard/wireguard-windows) - Download WireGuard for Windows at https://www.wireguard.com/install . This repo is a mirror only. Official repository is at https://git.zx2c4.com/wireguard-windows
-
-*   [soulteary/amazing-openai-api](https://github.com/soulteary/amazing-openai-api) - Convert different model APIs into the OpenAI API format out of the box.
-
-*   [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
-
-*   [yeasy/blockchain\_guide](https://github.com/yeasy/blockchain_guide) - Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.
-
-*   [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
-
-*   [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway
-
-*   [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-
-*   [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
-
-*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
-
-*   [unknwon/go-rock-libraries-showcases](https://github.com/unknwon/go-rock-libraries-showcases) - 《Go名库讲解》是一套针对 Google 出品的 Go 语言的第三方库进行评测讲解的集博客、示例与语音视频为一体的综合教程，适合完成学习完成《Go编程基础》教程的学习者。
-
-*   [kuriv/civil-service-exam](https://github.com/kuriv/civil-service-exam) - 公务员考试知识思维导图，我们岸上见！
-
-*   [Hel10-Web/Databasetools](https://github.com/Hel10-Web/Databasetools) - 一款用Go语言编写的数据库自动化提权工具，支持Mysql、MSSQL、Postgresql、Oracle、Redis数据库提权、命令执行、爆破以及ssh连接
-
-*   [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-
-*   [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Automatic SRE Superpowers within your Kubernetes cluster
-
-*   [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-
-*   [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-
-*   [golang-design/go-questions](https://github.com/golang-design/go-questions) - 📖 Go 程序员面试笔试宝典 | 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions
-
-*   [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
-
-*   [cloudframeworks-blockchain/user-guide-fabric-smart-contract](https://github.com/cloudframeworks-blockchain/user-guide-fabric-smart-contract) - \[云框架]基于区块链的智能合约 / Blockchain, Fabric Hyperledger, Smart Contract ／ 区块链, Fabric Hyperledger, 智能合约
-
-*   [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
-
-*   [caoyingjunz/go-learning](https://github.com/caoyingjunz/go-learning) - A learning and practise map for OpenStack, kubernetes, golang and the others.
-
-*   [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
-
-*   [edgexfoundry/device-modbus-go](https://github.com/edgexfoundry/device-modbus-go) - Owner: Device WG
-
-*   [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (incubating project under CNCF)
-
-*   [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
-
-*   [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-
-*   [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
-
-*   [kubeedge/mappers-go](https://github.com/kubeedge/mappers-go) - KubeEdge Device Mappers written in go
-
-*   [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
-
-*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-
-*   [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
-
-*   [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
-
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-
-*   [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi) - 🚀 A modern, open-source K8s panel developed by the official 1Panel team.
-
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
-
-*   [golang/protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
-
-*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
-*   [cloudnativebooks/cloud-native-go](https://github.com/cloudnativebooks/cloud-native-go) - 华为云原生丛书之《Go专家编程》
-
-*   [kevinyan815/gocookbook](https://github.com/kevinyan815/gocookbook) - go cook book
-
-*   [geektutu/high-performance-go](https://github.com/geektutu/high-performance-go) - high performance coding with golang（Go 语言高性能编程，Go 语言陷阱，Gotchas，Traps）
-
-*   [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-
-*   [kurator-dev/kurator](https://github.com/kurator-dev/kurator) - Unified resource orchestration, unified scheduling, unified traffic management and unified telemetry for distributed cloud
-
-*   [openyurtio/openyurt](https://github.com/openyurtio/openyurt) - OpenYurt - Extending your native Kubernetes to edge(project under CNCF)
-
-*   [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
-
-*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-
-*   [kubeedge/keink](https://github.com/kubeedge/keink) - KubeEdge In Kind, easily spin up a KubeEdge cluster in just one machine.
-
-*   [hoanhan101/algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems in Go
-
-*   [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
-
 ## Jupyter Notebook
 
 *   [bbruceyuan/LLMs-Zero-to-Hero](https://github.com/bbruceyuan/LLMs-Zero-to-Hero) - 从无名小卒到大模型（LLM）大英雄~ 欢迎关注后续！！！
@@ -1491,10 +1385,6 @@
 *   [wuch15/FedAttack](https://github.com/wuch15/FedAttack) - Source code of FedAttack.
 
 *   [pkulium/notes](https://github.com/pkulium/notes) -
-
-*   [shyam671/Federated-Learning](https://github.com/shyam671/Federated-Learning) -
-
-*   [yh-yao/FedGCN](https://github.com/yh-yao/FedGCN) - Official Code for FedGCN \[NeurIPS 2023]
 
 *   [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker \[CVPR 2024]
 
@@ -1560,73 +1450,9 @@
 
 *   [onnx/models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
 
-*   [phodal/understand-prompt](https://github.com/phodal/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。
-
-*   [chenzomi12/aisystem](https://github.com/chenzomi12/aisystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
-
-*   [exacity/simplified-deeplearning](https://github.com/exacity/simplified-deeplearning) - Simplified implementations of deep learning related works
-
-*   [telekom/5g-trace-visualizer](https://github.com/telekom/5g-trace-visualizer) - This set of Python scripts allow you to convert pcap, pcapnp or pdml 5G protocol traces (Wireshark, tcpdump, ...) into SVG sequence diagrams.
-
 ## Zig
 
 *   [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
-
-## Java
-
-*   [ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
-
-*   [cncsnet1/jadx-gui-ai](https://github.com/cncsnet1/jadx-gui-ai) - jadx-gui反编译工具二次开发，接入AI赋能。
-
-*   [anjia0532/unidbg-boot-server](https://github.com/anjia0532/unidbg-boot-server) - unidbg-server 提供http api服务
-
-*   [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
-
-*   [Palatis/XAppDebug](https://github.com/Palatis/XAppDebug) - toggle app debuggable
-
-*   [koush/AndroidAsync](https://github.com/koush/AndroidAsync) - Asynchronous socket, http(s) (client+server) and websocket library for android. Based on nio, not threads.
-
-*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
-
-*   [xuchengsheng/spring-reading](https://github.com/xuchengsheng/spring-reading) - 涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。
-
-*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
-
-*   [oasisfeng/island](https://github.com/oasisfeng/island) - Island for Android
-
-*   [constanline/XQuickEnergy](https://github.com/constanline/XQuickEnergy) -
-
-*   [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
-
-*   [jance-hui/update-jd-ck](https://github.com/jance-hui/update-jd-ck) - alook浏览器 + IOS快捷指令快速更新ck
-
-*   [Yanyutin753/refresh-gpt-chat](https://github.com/Yanyutin753/refresh-gpt-chat) - refresh-gpt-chat 中转oaifree或者ninja或者PandoraToV1Api的/v1/\*接口，把refresh\_token当key使用，内含hashmap，自动更新access\_token，完美继承pandoraNext留下的refresh\_token，支持基本所有的模型，小白也能快速使用！
-
-*   [Drun1baby/JavaSecurityLearning](https://github.com/Drun1baby/JavaSecurityLearning) - 记录一下 Java 安全学习历程，也算是半条学习路线了
-
-*   [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - HyperOS enhancement module - Make HyperOS Great Again!
-
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
-
-*   [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao) - 知乎去广告Xposed模块
-
-*   [jd-opensource/9n-mpc](https://github.com/jd-opensource/9n-mpc) -
-
-*   [fedlearnAI/fedlearn](https://github.com/fedlearnAI/fedlearn) - 联邦学习系统，包括常用算法和通用训练推理系统框架 | Fedlearn Main System, Including Algorithms and Frameworks for Training / Inference.
-
-*   [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-
-*   [mingzhixian/Easycontrol](https://github.com/mingzhixian/Easycontrol) - 易控，帮助你方便的使用手机远程控制手机。
-
-*   [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
-
-*   [heibaiying/Full-Stack-Notes](https://github.com/heibaiying/Full-Stack-Notes) - 全栈工程师手册
-
-*   [F-19-F/Xposed-GodMode](https://github.com/F-19-F/Xposed-GodMode) - A xposed module similar to AdBlock, You can edit the application user interface at will.
-
-## Swift
-
-*   [BugenZhao/MNGA](https://github.com/BugenZhao/MNGA) - 💬 A refreshing NGA Forum App in SwiftUI. Make NGA Great Again! aka "NGA 论坛 iOS 开源客户端"
 
 ## PHP
 
@@ -1671,8 +1497,6 @@
 *   [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 
 *   [emqx/neuron](https://github.com/emqx/neuron) - Open source industrial IoT connectivity server
-
-*   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 
 ## TeX
 
@@ -1722,14 +1546,6 @@
 
 *   [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 
-*   [wx-chevalier/DistributedSystem-Notes](https://github.com/wx-chevalier/DistributedSystem-Notes) - :books: 深入浅出分布式基础架构，Linux 与操作系统篇 | 分布式系统篇 | 分布式计算篇 | 数据库篇 | 网络篇 | 虚拟化与编排篇 | 大数据与云计算篇
-
-*   [wx-chevalier/Cloud-Notes](https://github.com/wx-chevalier/Cloud-Notes) - :books: 《深入浅出云计算与 Kubernetes》：云计算（云安全，云原生）、虚拟化（容器、Docker、Xen）、集群编排（Kubernetes、ServiceMesh）
-
-*   [niltok/magic-in-ten-mins](https://github.com/niltok/magic-in-ten-mins) - 十分钟魔法练习
-
-*   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-
 ## Rust
 
 *   [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
@@ -1762,7 +1578,7 @@
 
 *   [SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi) - Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update)
 
-*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Hostuno三合一代理脚本
 
 *   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
 
@@ -1775,10 +1591,6 @@
 *   [emptysuns/Hi\_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria2一键搞定。
 
 *   [Java-Edge/Java-Interview-Tutorial](https://github.com/Java-Edge/Java-Interview-Tutorial) - 请star，勿fork，因为爱force push！涵盖国际大厂Java/数据库/DDD/设计模式/微服务/中间件/AI大模型应用/区块链开发最佳实践。关注公众号【JavaEdge】，一起交流学习！
-
-*   [long-fu/develop\_doc](https://github.com/long-fu/develop_doc) - k8s,kubeedge,ai,tao,deepstream,yolov5
-
-*   [gonglei007/GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。
 
 ## C++
 
@@ -1816,19 +1628,9 @@
 
 *   [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 
-*   [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
-
-*   [Adlik/Adlik](https://github.com/Adlik/Adlik) - Adlik: Toolkit for Accelerating Deep Learning Inference
-
-*   [4paradigm/OpenMLDB](https://github.com/4paradigm/OpenMLDB) - OpenMLDB is an open-source machine learning database that provides a feature platform computing consistent features for training and inference.
-
-*   [k2-fsa/sherpa](https://github.com/k2-fsa/sherpa) - Speech-to-text server framework with next-gen Kaldi
-
 ## CSS
 
 *   [m2kar/m2kar.github.io](https://github.com/m2kar/m2kar.github.io) - M2kar的个人主页
-
-*   [YangguangZhou/blog](https://github.com/YangguangZhou/blog) - Jerry Zhou 的个人博客
 
 *   [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 
@@ -1860,15 +1662,11 @@
 
 *   [nateraw/spaces-docker-templates](https://github.com/nateraw/spaces-docker-templates) - 🚀🤗 A collection of templates for Hugging Face Spaces
 
-*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-
 ## Batchfile
 
 *   [shuhongfan/NavicatCracker](https://github.com/shuhongfan/NavicatCracker) - navicat 激活 Navicat所有版本破解 A keygen for Navicat 16 Navicat16破解 Navicat Keygen Navicat 16 Keygen注册机(NavicatCracker)  Navicat 16 破解  Navicat Premium 16 破解 Navicat破解 绿色版 MySQL
 
 ## Lua
-
-*   [ramprs/grad-cam](https://github.com/ramprs/grad-cam) - \[ICCV 2017] Torch code for Grad-CAM
 
 *   [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 
@@ -1921,7 +1719,3 @@
 ## MDX
 
 *   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-
-## Scala
-
-*   [feathr-ai/feathr](https://github.com/feathr-ai/feathr) - Feathr – A scalable, unified data and AI engineering platform for enterprise
