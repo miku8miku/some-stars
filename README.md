@@ -139,8 +139,6 @@
 
 *   [ccknbc-actions/blog-butterfly](https://github.com/ccknbc-actions/blog-butterfly) - CC的Butterfly主题部落格源码
 
-*   [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
-
 *   [fomalhaut1998/hexo-theme-Fomalhaut](https://github.com/fomalhaut1998/hexo-theme-Fomalhaut) - 🥝的网站源码
 
 *   [fluid-dev/hexo-fluid-blog](https://github.com/fluid-dev/hexo-fluid-blog) - Fluid Blog 欢迎投稿
@@ -315,8 +313,6 @@
 
 *   [dqzg12300/fridaUiTools](https://github.com/dqzg12300/fridaUiTools) - frida工具的缝合怪
 
-*   [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful Mobile Device Operation Assistant Family
-
 *   [qinLess/frida\_api](https://github.com/qinLess/frida_api) - 使用 flask\_restful 写的 frida rpc 服务
 
 *   [madking177/appspiderHook](https://github.com/madking177/appspiderHook) - 关于腾讯系 阿里系 字节系，pdd等逆向代码案例分享
@@ -421,7 +417,7 @@
 
 *   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
 
-*   [UQ-Trust-Lab/AgrAmplifier](https://github.com/UQ-Trust-Lab/AgrAmplifier) -
+*   [Trusted-System-Lab/AgrAmplifier](https://github.com/Trusted-System-Lab/AgrAmplifier) -
 
 *   [WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle) - 🌟 ChatGenTitle：使用百万arXiv论文信息在LLaMA模型上进行微调的论文题目生成模型
 
@@ -983,7 +979,7 @@
 
 *   [chatpire/chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
 
-*   [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
+*   [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Collaboratively track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
 
 *   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
@@ -1053,7 +1049,7 @@
 
 *   [leaperone/MultiPost-Extension](https://github.com/leaperone/MultiPost-Extension) - A browser extension that helps users publish content to multiple social media platforms with one click.
 
-*   [modstart-lib/aigcpanel](https://github.com/modstart-lib/aigcpanel) - AigcPanel 是一个简单易用的一站式AI数字人系统，支持视频合成、声音合成、声音克隆，简化本地模型管理、一键导入和使用AI模型。
+*   [modstart-lib/aigcpanel](https://github.com/modstart-lib/aigcpanel) - AIGCPanel 是一个简单易用的一站式AI数字人系统，支持视频合成、声音合成、声音克隆，简化本地模型管理、一键导入和使用AI模型。
 
 *   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 
@@ -1215,7 +1211,7 @@
 
 *   [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
 
-*   [sun0225SUN/sun0225SUN](https://github.com/sun0225SUN/sun0225SUN) - sun0225SUN's profile with 264 stars and 268 forks 🎉
+*   [sun0225SUN/sun0225SUN](https://github.com/sun0225SUN/sun0225SUN) - sun0225SUN's profile with 266 stars and 268 forks 🎉
 
 *   [Xposed-Modules-Repo/me.jsonet.jshook](https://github.com/Xposed-Modules-Repo/me.jsonet.jshook) - 用js实现hook 支持java层和native层
 
@@ -1663,6 +1659,8 @@
 
 *   [Sprinter1999/XuefenResource](https://github.com/Sprinter1999/XuefenResource) - Some Resource\&Notes Shared by Xuefen
 
+*   [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) -  Mobile-Agent: The Powerful GUI Agent Family
+
 *   [wuch15/FedAttack](https://github.com/wuch15/FedAttack) - Source code of FedAttack.
 
 *   [pkulium/notes](https://github.com/pkulium/notes) -
@@ -1791,7 +1789,7 @@
 
 *   [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 
-*   [sakura6264/WhisperDesktop](https://github.com/sakura6264/WhisperDesktop) - Edited from Const-me/Whisper.
+*   [sakura6264/whisper\_desktop](https://github.com/sakura6264/whisper_desktop) - Edited from Const-me/Whisper.
 
 *   [FISCO-BCOS/FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) - FISCO BCOS（发音为/ˈfɪskl bi:ˈkɒz/）是一个稳定、高效、安全的许可区块链平台，已被广泛应用于现实的行业应用。截至目前，已拥有5000多家企事业单位，400多个产业数字化标杆应用，涵盖文化版权、司法服务、政府服务、物联网、金融、智慧社区、房地产建设、社区治理、乡村振兴等领域。FISCO BCOS (pronounced /ˈfɪskl bi:ˈkɒz/) is a stable, efficient, and secure permissioned blockchain platform that has been widely used in real-world industry applications.
 
@@ -1850,6 +1848,8 @@
 *   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 
 ## Stylus
+
+*   [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
 
 *   [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。
 
